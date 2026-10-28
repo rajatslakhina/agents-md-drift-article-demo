@@ -49,7 +49,7 @@ let checks = gate.check(changedPaths: prFiles,
                         today: Day(year: 2026, month: 10, day: 28))
 
 switch gate.verdict(for: checks) {
-case .blocked(let ids):     print("False today:", ids)      // dead anchor, expired, superseded ADR
+case .blocked(let ids):     print("Blocked:", ids)      // dead anchor, expired, superseded ADR
 case .needsReview(let ids): print("Owners re-read:", ids)   // the PR touched an anchor
 case .pass:                 print("Instructions still hold")
 }
