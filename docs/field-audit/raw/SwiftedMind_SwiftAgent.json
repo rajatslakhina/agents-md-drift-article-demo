@@ -1,0 +1,101 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-01-15T18:55:54+01:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "line" : 53,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "unresolved",
+          "text" : "DesignSystem\/Layout.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 74,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "live",
+          "target" : "SwiftAgent.xcworkspace",
+          "text" : "SwiftAgent.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 76,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "live",
+          "target" : "SwiftAgent.xcworkspace",
+          "text" : "SwiftAgent.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 78,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "live",
+          "target" : "SwiftAgent.xcworkspace",
+          "text" : "SwiftAgent.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 80,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "live",
+          "target" : "SwiftAgent.xcworkspace",
+          "text" : "SwiftAgent.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 86,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "live",
+          "target" : ".codex\/skills\/agent-recorder-fixtures\/SKILL.md",
+          "text" : ".codex\/skills\/agent-recorder-fixtures\/SKILL.md"
+        },
+        {
+          "line" : 87,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "ignored",
+          "text" : "Secrets.plist"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 92,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "live",
+          "target" : "SwiftAgent.xcworkspace",
+          "text" : "SwiftAgent.xcworkspace"
+        },
+        {
+          "line" : 92,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "ignored",
+          "text" : ".tmp\/DerivedData"
+        },
+        {
+          "line" : 93,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "ignored",
+          "text" : ".\/.tmp\/DerivedData\/Build\/Products\/Debug\/AgentRecorder"
+        },
+        {
+          "line" : 94,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "ignored",
+          "text" : ".\/.tmp\/DerivedData\/Build\/Products\/Debug\/AgentRecorder"
+        },
+        {
+          "line" : 94,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "ignored",
+          "text" : "Secrets.plist"
+        },
+        {
+          "line" : 94,
+          "lineWritten" : "2026-01-15T17:55:54Z",
+          "status" : "unresolved",
+          "text" : "openai\/streaming-tool-calls\/weather"
+        }
+      ]
+    }
+  ],
+  "head" : "48bfda9219a5014c117aff3294e7987e17218a9d"
+}

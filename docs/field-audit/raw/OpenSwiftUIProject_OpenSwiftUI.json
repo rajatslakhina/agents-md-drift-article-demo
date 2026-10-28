@@ -1,0 +1,113 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-10-27T03:04:28+08:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 16,
+          "lineWritten" : "2026-10-09T16:28:26Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 16,
+          "lineWritten" : "2026-10-09T16:28:26Z",
+          "status" : "live",
+          "target" : "Package.resolved",
+          "text" : "Package.resolved"
+        },
+        {
+          "commitsSinceWritten" : 31,
+          "line" : 31,
+          "lineWritten" : "2026-09-12T10:24:17Z",
+          "status" : "live",
+          "target" : "Tests",
+          "text" : "Tests"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 40,
+          "lineWritten" : "2025-11-22T14:33:24Z",
+          "status" : "live",
+          "target" : "Scripts\/build.sh",
+          "text" : ".\/Scripts\/build.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 46,
+          "lineWritten" : "2025-11-22T14:33:24Z",
+          "status" : "live",
+          "target" : "Scripts\/build_swiftinterface.sh",
+          "text" : ".\/Scripts\/build_swiftinterface.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 56,
+          "lineWritten" : "2026-08-02T14:00:25Z",
+          "status" : "live",
+          "target" : "Scripts\/build_xcframework_slice.sh",
+          "text" : "Scripts\/build_xcframework_slice.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 58,
+          "lineWritten" : "2026-08-02T14:00:25Z",
+          "status" : "live",
+          "target" : "Scripts\/build_xcframework_slice.sh",
+          "text" : "Scripts\/build_xcframework_slice.sh"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 95,
+          "lineWritten" : "2026-08-23T14:51:42Z",
+          "status" : "live",
+          "target" : ".agents\/skills\/openswiftui-test-authoring\/SKILL.md",
+          "text" : ".agents\/skills\/openswiftui-test-authoring\/SKILL.md"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 102,
+          "lineWritten" : "2026-08-23T14:51:42Z",
+          "status" : "live",
+          "target" : ".agents\/skills\/openswiftui-pr-authoring\/SKILL.md",
+          "text" : ".agents\/skills\/openswiftui-pr-authoring\/SKILL.md"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 111,
+          "lineWritten" : "2026-10-14T03:28:54Z",
+          "status" : "live",
+          "target" : "Example\/Tests\/OpenSwiftUIUITests",
+          "text" : "Example\/Tests\/OpenSwiftUIUITests"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 112,
+          "lineWritten" : "2026-10-14T03:28:54Z",
+          "status" : "live",
+          "target" : "Example\/Tests\/OpenSwiftUIInteractionTests",
+          "text" : "Example\/Tests\/OpenSwiftUIInteractionTests"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 135,
+          "lineWritten" : "2026-10-26T19:04:28Z",
+          "status" : "live",
+          "target" : "VERSION.txt",
+          "text" : "VERSION.txt"
+        },
+        {
+          "line" : 140,
+          "lineWritten" : "2026-10-26T19:04:28Z",
+          "status" : "unresolved",
+          "text" : "release\/0.25"
+        }
+      ]
+    }
+  ],
+  "head" : "352f8560db3fc5c99d24edf51f4d7628528ef9a0"
+}

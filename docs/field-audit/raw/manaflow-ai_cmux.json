@@ -1,0 +1,562 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-10-20T12:18:28-07:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 12,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "scripts\/verify-local.py",
+          "text" : "scripts\/verify-local.py"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 14,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "scripts\/verify-local.py",
+          "text" : "verify-local.py"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 27,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "scripts\/cmux-debug-cli.sh",
+          "text" : "scripts\/cmux-debug-cli.sh"
+        },
+        {
+          "commitsSinceWritten" : 843,
+          "line" : 29,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "Sources",
+          "text" : "Sources"
+        },
+        {
+          "commitsSinceWritten" : 227,
+          "line" : 29,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "CLI",
+          "text" : "CLI"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 29,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "TunnelExtension",
+          "text" : "TunnelExtension"
+        },
+        {
+          "commitsSinceWritten" : 94,
+          "line" : 36,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "ios",
+          "text" : "ios"
+        },
+        {
+          "commitsSinceWritten" : 175,
+          "line" : 36,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "Packages\/iOS",
+          "text" : "Packages\/iOS"
+        },
+        {
+          "commitsSinceWritten" : 463,
+          "line" : 37,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "web",
+          "text" : "web"
+        },
+        {
+          "commitsSinceWritten" : 96,
+          "line" : 38,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "cmux-tui",
+          "text" : "cmux-tui"
+        },
+        {
+          "commitsSinceWritten" : 426,
+          "line" : 49,
+          "lineWritten" : "2026-09-28T07:47:59Z",
+          "status" : "live",
+          "target" : "web",
+          "text" : "web"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 49,
+          "lineWritten" : "2026-09-28T07:47:59Z",
+          "status" : "live",
+          "target" : "workers\/ci-artifacts",
+          "text" : "workers\/ci-artifacts"
+        },
+        {
+          "commitsSinceWritten" : 21,
+          "line" : 50,
+          "lineWritten" : "2026-09-28T07:47:59Z",
+          "status" : "live",
+          "target" : "workers\/iroh-v2",
+          "text" : "workers\/iroh-v2"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 50,
+          "lineWritten" : "2026-09-28T07:47:59Z",
+          "status" : "live",
+          "target" : "workers\/presence",
+          "text" : "workers\/presence"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 50,
+          "lineWritten" : "2026-09-28T07:47:59Z",
+          "status" : "live",
+          "target" : "services\/iroh-relay-minter",
+          "text" : "services\/iroh-relay-minter"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 51,
+          "lineWritten" : "2026-09-28T07:47:59Z",
+          "status" : "live",
+          "target" : "cmux-tui\/relays\/cloudflare-do",
+          "text" : "cmux-tui\/relays\/cloudflare-do"
+        },
+        {
+          "commitsSinceWritten" : 15,
+          "line" : 61,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "CHANGELOG.md",
+          "text" : "CHANGELOG.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 73,
+          "lineWritten" : "2026-09-30T14:44:27Z",
+          "status" : "live",
+          "target" : "scripts\/merge-main.sh",
+          "text" : "scripts\/merge-main.sh"
+        },
+        {
+          "line" : 77,
+          "lineWritten" : "2026-10-19T23:51:24Z",
+          "status" : "unresolved",
+          "text" : "repos\/OWNER\/REPO\/pulls\/N\/merge"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 107,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "scripts\/sync-test-wiring",
+          "text" : "scripts\/sync-test-wiring"
+        },
+        {
+          "commitsSinceWritten" : 759,
+          "line" : 107,
+          "lineWritten" : "2026-09-27T12:57:43Z",
+          "status" : "live",
+          "target" : "cmuxTests",
+          "text" : "cmuxTests"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-25T13:47:51-04:00",
+      "path" : "Packages\/iOS\/AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 4,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "ios\/AGENTS.md",
+          "text" : "ios\/AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 358,
+          "line" : 5,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "Packages\/iOS",
+          "text" : "Packages\/iOS"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-08-22T16:58:36-07:00",
+      "path" : "Packages\/iOS\/CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 3,
+          "lineWritten" : "2026-08-22T23:58:36Z",
+          "status" : "live",
+          "target" : "Packages\/iOS\/AGENTS.md",
+          "text" : "AGENTS.md"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-07-26T23:16:39-07:00",
+      "path" : "cmux-browser\/AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 2344,
+          "line" : 7,
+          "lineWritten" : "2026-07-27T06:16:39Z",
+          "status" : "live",
+          "target" : "cmux-tui",
+          "text" : "..\/cmux-tui"
+        },
+        {
+          "commitsSinceWritten" : 52,
+          "line" : 7,
+          "lineWritten" : "2026-07-27T06:16:39Z",
+          "status" : "live",
+          "target" : "ghostty",
+          "text" : "..\/ghostty"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 8,
+          "lineWritten" : "2026-07-27T06:16:39Z",
+          "status" : "live",
+          "target" : "cmux-browser\/overlay",
+          "text" : "overlay"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-10-06T19:20:03-07:00",
+      "path" : "cmux-tui\/AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 6,
+          "lineWritten" : "2026-08-08T03:37:43Z",
+          "status" : "live",
+          "target" : "scripts\/verify-cmux-tui-hosted.sh",
+          "text" : ".\/scripts\/verify-cmux-tui-hosted.sh"
+        },
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 7,
+          "lineWritten" : "2026-08-08T03:37:43Z",
+          "status" : "live",
+          "target" : "scripts\/verify-cmux-tui-hosted.sh",
+          "text" : ".\/scripts\/verify-cmux-tui-hosted.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 14,
+          "lineWritten" : "2026-08-08T03:59:50Z",
+          "status" : "live",
+          "target" : "cmux-tui\/rust-toolchain.toml",
+          "text" : "rust-toolchain.toml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 21,
+          "lineWritten" : "2026-10-07T02:20:03Z",
+          "status" : "live",
+          "target" : "scripts\/blacksmith-testbox-demo.sh",
+          "text" : ".\/scripts\/blacksmith-testbox-demo.sh"
+        },
+        {
+          "commitsSinceWritten" : 99,
+          "line" : 25,
+          "lineWritten" : "2026-09-25T18:45:53Z",
+          "status" : "live",
+          "target" : "cmux-tui",
+          "text" : "cmux-tui"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 26,
+          "lineWritten" : "2026-09-25T18:45:53Z",
+          "status" : "live",
+          "target" : "cmux-tui\/README.md",
+          "text" : "cmux-tui\/README.md"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-08-09T15:02:09-07:00",
+      "path" : "cmux-tui\/CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 3,
+          "lineWritten" : "2026-08-08T03:37:43Z",
+          "status" : "live",
+          "target" : "cmux-tui\/AGENTS.md",
+          "text" : "AGENTS.md"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-25T13:47:51-04:00",
+      "path" : "ios\/AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 3,
+          "lineWritten" : "2026-08-22T23:58:36Z",
+          "status" : "live",
+          "target" : "Packages\/iOS\/AGENTS.md",
+          "text" : "Packages\/iOS\/AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 8,
+          "lineWritten" : "2026-09-16T04:16:27Z",
+          "status" : "live",
+          "target" : "docs\/ios-connectivity-soak.md",
+          "text" : "docs\/ios-connectivity-soak.md"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 14,
+          "lineWritten" : "2026-09-22T02:31:33Z",
+          "status" : "live",
+          "target" : "ios\/tests",
+          "text" : "ios\/tests"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 17,
+          "lineWritten" : "2026-09-22T02:31:33Z",
+          "status" : "live",
+          "target" : "ios\/tests",
+          "text" : "ios\/tests"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 18,
+          "lineWritten" : "2026-09-22T02:31:33Z",
+          "status" : "live",
+          "target" : "scripts\/lib",
+          "text" : "scripts\/lib"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 25,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "Packages\/iOS\/AGENTS.md",
+          "text" : "Packages\/iOS\/AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 358,
+          "line" : 27,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "Packages\/iOS",
+          "text" : "Packages\/iOS"
+        },
+        {
+          "commitsSinceWritten" : 173,
+          "line" : 27,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "ios",
+          "text" : "ios"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 31,
+          "lineWritten" : "2026-09-25T17:47:51Z",
+          "status" : "live",
+          "target" : "ios\/scripts\/reload.sh",
+          "text" : "ios\/scripts\/reload.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 33,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/verify-iphone-auth.sh",
+          "text" : "scripts\/verify-iphone-auth.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 37,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/iphone-install-queue.sh",
+          "text" : "scripts\/iphone-install-queue.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 37,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/install-iphone-queue-agent.sh",
+          "text" : "scripts\/install-iphone-queue-agent.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 52,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/cmux-debug-cli.sh",
+          "text" : "scripts\/cmux-debug-cli.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 53,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/cmux-debug-cli.sh",
+          "text" : "scripts\/cmux-debug-cli.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 54,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/cmux-debug-cli.sh",
+          "text" : "scripts\/cmux-debug-cli.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 55,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/cmux-debug-cli.sh",
+          "text" : "scripts\/cmux-debug-cli.sh"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 67,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/setup-team-dev.sh",
+          "text" : "scripts\/setup-team-dev.sh"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 67,
+          "lineWritten" : "2026-09-21T03:10:00Z",
+          "status" : "live",
+          "target" : "scripts\/mobile-dev-launch.sh",
+          "text" : "scripts\/mobile-dev-launch.sh"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-08-22T16:58:36-07:00",
+      "path" : "ios\/CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 3,
+          "lineWritten" : "2026-08-22T23:58:36Z",
+          "status" : "live",
+          "target" : "ios\/AGENTS.md",
+          "text" : "AGENTS.md"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-01T14:33:19-07:00",
+      "path" : "skills\/cmux-browser\/AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 3,
+          "lineWritten" : "2026-09-01T21:33:19Z",
+          "status" : "live",
+          "target" : "skills\/cmux-browser\/SKILL.md",
+          "text" : "SKILL.md"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-28T03:58:19Z",
+      "path" : "web\/AGENTS.md",
+      "references" : [
+        {
+          "line" : 5,
+          "lineWritten" : "2026-08-22T03:30:46Z",
+          "status" : "ignored",
+          "text" : "node_modules\/next\/dist\/docs"
+        },
+        {
+          "line" : 7,
+          "lineWritten" : "2026-08-22T03:30:46Z",
+          "status" : "ignored",
+          "text" : "node_modules\/next\/dist\/server\/lib\/generate-agent-files.js"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 14,
+          "lineWritten" : "2026-09-04T14:13:18Z",
+          "status" : "live",
+          "target" : "web\/.oxlintrc.json",
+          "text" : ".oxlintrc.json"
+        },
+        {
+          "commitsSinceWritten" : 932,
+          "line" : 15,
+          "lineWritten" : "2026-09-04T14:13:18Z",
+          "status" : "live",
+          "target" : "web",
+          "text" : "web"
+        },
+        {
+          "commitsSinceWritten" : 29,
+          "line" : 21,
+          "lineWritten" : "2026-09-04T14:13:18Z",
+          "status" : "live",
+          "target" : "web\/oxlint-complexity-baseline.txt",
+          "text" : "oxlint-complexity-baseline.txt"
+        },
+        {
+          "commitsSinceWritten" : 18,
+          "line" : 45,
+          "lineWritten" : "2026-09-28T03:58:19Z",
+          "status" : "live",
+          "target" : "web\/services\/vms\/images\/devbox",
+          "text" : "services\/vms\/images\/devbox"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 45,
+          "lineWritten" : "2026-09-28T03:58:19Z",
+          "status" : "live",
+          "target" : "web\/scripts\/build-devbox-freestyle.ts",
+          "text" : "scripts\/build-devbox-freestyle.ts"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 45,
+          "lineWritten" : "2026-09-28T03:58:19Z",
+          "status" : "live",
+          "target" : "web\/scripts\/upgrade-fleet-cmux-tui.ts",
+          "text" : "scripts\/upgrade-fleet-cmux-tui.ts"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-08-21T20:30:46-07:00",
+      "path" : "web\/CLAUDE.md",
+      "references" : [
+
+      ]
+    }
+  ],
+  "head" : "d86be9deea7eedb8220143cd074346912ce5263a"
+}

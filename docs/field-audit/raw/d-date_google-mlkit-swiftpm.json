@@ -1,0 +1,643 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-09-23T09:21:05+09:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 18,
+          "lineWritten" : "2026-09-23T00:21:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 21,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : "scripts",
+          "text" : "scripts"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 22,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : "Resources",
+          "text" : "Resources"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 23,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : "xcframework-maker",
+          "text" : "xcframework-maker"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 24,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : "Example",
+          "text" : "Example"
+        },
+        {
+          "commitsSinceWritten" : 12,
+          "line" : 25,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : ".github\/workflows",
+          "text" : ".github\/workflows"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 29,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/check-mlkit-updates.yml",
+          "text" : "check-mlkit-updates.yml"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 30,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/build-mlkit.yml",
+          "text" : "build-mlkit.yml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 31,
+          "lineWritten" : "2026-02-08T15:07:58Z",
+          "status" : "live",
+          "target" : "scripts\/build_all.sh",
+          "text" : ".\/scripts\/build_all.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 43,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/verify_local_archive.sh",
+          "text" : ".\/scripts\/verify_local_archive.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 49,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : ".claude\/skills\/mlkit-release",
+          "text" : ".claude\/skills\/mlkit-release"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-23T09:21:05+09:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 7,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 9,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 9,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Sources\/Common\/export.swift",
+          "text" : "Sources\/Common\/export.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 11,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "AGENTS.md",
+          "text" : "AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 11,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "AUTOMATION.md",
+          "text" : "AUTOMATION.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 11,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "TESTING.md",
+          "text" : "TESTING.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 11,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/README.md",
+          "text" : "scripts\/README.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 17,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "xcframework-maker",
+          "text" : "xcframework-maker"
+        },
+        {
+          "line" : 19,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "ignored",
+          "text" : "GoogleMLKit"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 20,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "build_with_asdf.sh",
+          "text" : ".\/build_with_asdf.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 21,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/build_all.sh",
+          "text" : ".\/scripts\/build_all.sh"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 21,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 22,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/batch_build.sh",
+          "text" : ".\/scripts\/batch_build.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 22,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/build_all.sh",
+          "text" : "build_all.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 26,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/verify_build.rb",
+          "text" : "verify_build.rb"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 27,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/check_product_closure.rb",
+          "text" : "scripts\/check_product_closure.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 28,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/verify_local_archive.sh",
+          "text" : ".\/scripts\/verify_local_archive.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 28,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "line" : 28,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "ignored",
+          "text" : "GoogleMLKit"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 29,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/verify_app_store_upload.sh",
+          "text" : ".\/scripts\/verify_app_store_upload.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 30,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/test_patch_macho_platform.rb",
+          "text" : "scripts\/test_patch_macho_platform.rb"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 31,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 32,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/verify_build.rb",
+          "text" : "scripts\/verify_build.rb"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 32,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 33,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/verify_runtime.sh",
+          "text" : ".\/scripts\/verify_runtime.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 34,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/check_mlkit_version.rb",
+          "text" : "scripts\/check_mlkit_version.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 36,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/build_all.sh",
+          "text" : "build_all.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 38,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/update_version.rb",
+          "text" : "scripts\/update_version.rb"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 39,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/update_checksums.rb",
+          "text" : "scripts\/update_checksums.rb"
+        },
+        {
+          "line" : 39,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "ignored",
+          "text" : "GoogleMLKit"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 39,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 40,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/update_package_dependencies.rb",
+          "text" : "scripts\/update_package_dependencies.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 41,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/postprocess_xcframeworks.rb",
+          "text" : "scripts\/postprocess_xcframeworks.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 42,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/use_local_binaries.rb",
+          "text" : "scripts\/use_local_binaries.rb"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 42,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 43,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/upload_release.sh",
+          "text" : ".\/scripts\/upload_release.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 47,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Example\/Example.xcworkspace",
+          "text" : "Example.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 47,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/download_bundles.sh",
+          "text" : ".\/scripts\/download_bundles.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 47,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Example\/Example\/Resources\/Bundles",
+          "text" : "Example\/Example\/Resources\/Bundles"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 48,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/check_product_closure.rb",
+          "text" : "check_product_closure.rb"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 49,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Example\/Package\/Tests\/CameraTests",
+          "text" : "Example\/Package\/Tests\/CameraTests"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 49,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/verify_local_archive.sh",
+          "text" : "verify_local_archive.sh"
+        },
+        {
+          "commitsSinceWritten" : 8,
+          "line" : 53,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/build-mlkit.yml",
+          "text" : ".github\/workflows\/build-mlkit.yml"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 53,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "scripts\/update_checksums.rb",
+          "text" : "update_checksums.rb"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 54,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/check-mlkit-updates.yml",
+          "text" : ".github\/workflows\/check-mlkit-updates.yml"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 55,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/ci.yml",
+          "text" : ".github\/workflows\/ci.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 64,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "xcframework-maker",
+          "text" : "xcframework-maker"
+        },
+        {
+          "line" : 65,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "ignored",
+          "text" : "Pods.xcodeproj"
+        },
+        {
+          "line" : 67,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "ignored",
+          "text" : "GoogleMLKit"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 68,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/postprocess_xcframeworks.rb",
+          "text" : "scripts\/postprocess_xcframeworks.rb"
+        },
+        {
+          "line" : 69,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "ignored",
+          "text" : "GoogleMLKit"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 71,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 75,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/use_local_binaries.rb",
+          "text" : "scripts\/use_local_binaries.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 79,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/postprocess_xcframeworks.rb",
+          "text" : "scripts\/postprocess_xcframeworks.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 80,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Resources\/MLKitNaturalLanguage-Info.plist",
+          "text" : "MLKitNaturalLanguage-Info.plist"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 80,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/verify_build.rb",
+          "text" : "verify_build.rb"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 82,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Resources",
+          "text" : "Resources"
+        },
+        {
+          "line" : 84,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "unresolved",
+          "text" : "Frameworks\/GoogleToolboxForMac.framework\/GoogleToolboxForMac"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 85,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/check_product_closure.rb",
+          "text" : "scripts\/check_product_closure.rb"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 85,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 86,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "xcframework-maker",
+          "text" : "xcframework-maker"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 87,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 87,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/check_product_closure.rb",
+          "text" : "scripts\/check_product_closure.rb"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 89,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 89,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/update_checksums.rb",
+          "text" : "scripts\/update_checksums.rb"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 89,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "renovate.json",
+          "text" : "renovate.json"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 90,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "scripts\/use_local_binaries.rb",
+          "text" : "scripts\/use_local_binaries.rb"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 90,
+          "lineWritten" : "2026-09-22T23:52:05Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 94,
+          "lineWritten" : "2026-05-02T04:45:23Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        }
+      ]
+    }
+  ],
+  "head" : "1518c5f8cd3b7b5e72d1520a45b89686d51fe5dd"
+}

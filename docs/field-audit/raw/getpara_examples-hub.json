@@ -1,0 +1,103 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-03-31T09:58:52-05:00",
+      "path" : "mobile\/with-flutter\/CLAUDE.md",
+      "references" : [
+        {
+          "line" : 14,
+          "lineWritten" : "2025-04-28T18:30:07Z",
+          "status" : "unresolved",
+          "text" : "test\/path_to_test.dart"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 15,
+          "lineWritten" : "2025-06-02T16:34:27Z",
+          "status" : "live",
+          "target" : "mobile\/with-flutter\/test_e2e\/tool\/setup.dart",
+          "text" : "tool\/setup.dart"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 16,
+          "lineWritten" : "2025-06-02T16:34:27Z",
+          "status" : "live",
+          "target" : "mobile\/with-flutter\/test_e2e\/tool\/run_tests.dart",
+          "text" : "tool\/run_tests.dart"
+        },
+        {
+          "commitsSinceWritten" : 11,
+          "line" : 32,
+          "lineWritten" : "2025-06-02T16:34:27Z",
+          "status" : "live",
+          "target" : "mobile\/with-flutter\/test_e2e",
+          "text" : "test_e2e"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 34,
+          "lineWritten" : "2025-06-02T16:34:27Z",
+          "status" : "live",
+          "target" : "mobile\/with-flutter\/test_e2e\/tool\/setup.dart",
+          "text" : "tool\/setup.dart"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 35,
+          "lineWritten" : "2025-06-02T16:34:27Z",
+          "status" : "live",
+          "target" : "mobile\/with-flutter\/test_e2e\/tool\/run_tests.dart",
+          "text" : "tool\/run_tests.dart"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 36,
+          "lineWritten" : "2025-07-22T21:45:37Z",
+          "status" : "live",
+          "target" : "mobile\/with-flutter\/test_e2e\/tool\/run_single_test.dart",
+          "text" : "tool\/run_single_test.dart"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-03-31T09:58:52-05:00",
+      "path" : "mobile\/with-swift\/CLAUDE.md",
+      "references" : [
+        {
+          "line" : 10,
+          "lineWritten" : "2026-03-31T14:58:52Z",
+          "status" : "unresolved",
+          "text" : "ParaSwift.xcworkspace"
+        },
+        {
+          "line" : 16,
+          "lineWritten" : "2026-03-31T14:58:52Z",
+          "status" : "unresolved",
+          "text" : "..\/..\/..\/ParaSwift.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 36,
+          "lineWritten" : "2026-03-31T14:58:52Z",
+          "status" : "live",
+          "target" : "mobile\/with-swift\/exampleUITests",
+          "text" : "exampleUITests"
+        },
+        {
+          "line" : 43,
+          "lineWritten" : "2026-03-31T14:58:52Z",
+          "status" : "unresolved",
+          "text" : "..\/..\/..\/ParaSwift.xcworkspace"
+        },
+        {
+          "line" : 53,
+          "lineWritten" : "2026-03-31T14:58:52Z",
+          "status" : "unresolved",
+          "text" : "..\/..\/..\/ParaSwift.xcworkspace"
+        }
+      ]
+    }
+  ],
+  "head" : "2ef3b9857b9979af2058ec5039de553aaf71e7ba"
+}

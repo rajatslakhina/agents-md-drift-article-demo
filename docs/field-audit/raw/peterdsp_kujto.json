@@ -1,0 +1,145 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-06-30T22:55:34+03:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 9,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "AGENTS.md",
+          "text" : "AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 9,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "CLAUDE.md",
+          "text" : "CLAUDE.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 9,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "CODEX.md",
+          "text" : "CODEX.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 9,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "GEMINI.md",
+          "text" : "GEMINI.md"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 10,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory\/MEMORY.md",
+          "text" : "memory\/MEMORY.md"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 17,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory",
+          "text" : "memory"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 25,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory",
+          "text" : "memory"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 26,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory\/MEMORY.md",
+          "text" : "MEMORY.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 27,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory\/core",
+          "text" : "core"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 28,
+          "lineWritten" : "2026-05-27T08:34:05Z",
+          "status" : "live",
+          "target" : "memory\/domains\/ios",
+          "text" : "domains\/ios"
+        },
+        {
+          "commitsSinceWritten" : 25,
+          "line" : 29,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : ".github\/workflows",
+          "text" : "workflows"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 34,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory\/MEMORY.md",
+          "text" : "MEMORY.md"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 39,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "AGENTS.md",
+          "text" : "AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 15,
+          "line" : 39,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "README.md",
+          "text" : "README.md"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 39,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory\/MEMORY.md",
+          "text" : "memory\/MEMORY.md"
+        },
+        {
+          "line" : 54,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "ignored",
+          "text" : "memory\/handoff_active.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 54,
+          "lineWritten" : "2026-05-22T11:04:53Z",
+          "status" : "live",
+          "target" : "memory\/core\/handoff.md",
+          "text" : "memory\/core\/handoff.md"
+        }
+      ]
+    }
+  ],
+  "head" : "51acf352b120c53d562ce7f1f42f48c03c8bea61"
+}

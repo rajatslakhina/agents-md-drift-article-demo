@@ -1,0 +1,97 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-06-01T16:53:43-06:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 8,
+          "lineWritten" : "2026-06-01T22:40:39Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/Shaders\/SwiftUIShaders.metal",
+          "text" : "Sources\/SwiftUIShaders\/Shaders\/SwiftUIShaders.metal"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 9,
+          "lineWritten" : "2026-06-01T22:40:39Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/ShaderEffects.swift",
+          "text" : "Sources\/SwiftUIShaders\/ShaderEffects.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 37,
+          "lineWritten" : "2026-06-01T21:26:18Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/ShaderEffects.swift",
+          "text" : "ShaderEffects.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 81,
+          "lineWritten" : "2026-06-01T22:40:39Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/Shaders\/SwiftUIShaders.metal",
+          "text" : "SwiftUIShaders.metal"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 83,
+          "lineWritten" : "2026-06-01T21:26:18Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/ShaderEffects.swift",
+          "text" : "ShaderEffects.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 116,
+          "lineWritten" : "2026-06-01T22:53:43Z",
+          "status" : "live",
+          "target" : "Docs\/parameters.json",
+          "text" : "Docs\/parameters.json"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 121,
+          "lineWritten" : "2026-06-01T22:53:43Z",
+          "status" : "live",
+          "target" : "Docs\/parameters.json",
+          "text" : "parameters.json"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 142,
+          "lineWritten" : "2026-06-01T21:26:18Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/ShaderEffects.swift",
+          "text" : "ShaderEffects.swift"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-06-01T16:40:39-06:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 7,
+          "lineWritten" : "2026-06-01T22:40:39Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/Shaders\/SwiftUIShaders.metal",
+          "text" : "Sources\/SwiftUIShaders\/Shaders\/SwiftUIShaders.metal"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 8,
+          "lineWritten" : "2026-06-01T22:40:39Z",
+          "status" : "live",
+          "target" : "Sources\/SwiftUIShaders\/ShaderEffects.swift",
+          "text" : "Sources\/SwiftUIShaders\/ShaderEffects.swift"
+        }
+      ]
+    }
+  ],
+  "head" : "6b644a8bd4f3131401bd6765990e476352d3cdef"
+}

@@ -1,0 +1,449 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-10-16T11:25:44+05:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "line" : 47,
+          "lineWritten" : "2025-07-09T21:20:01Z",
+          "status" : "ignored",
+          "text" : ".build\/release\/xcsift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 52,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/release.yml",
+          "text" : ".github\/workflows\/release.yml"
+        },
+        {
+          "line" : 54,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "unresolved",
+          "text" : "packslip.sigstore.json"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 57,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/release.yml",
+          "text" : "release.yml"
+        },
+        {
+          "line" : 62,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "unresolved",
+          "text" : "release.toml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 63,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 67,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "live",
+          "target" : "skills\/xcsift",
+          "text" : "skills\/xcsift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 68,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "live",
+          "target" : "skills\/xcsift\/SKILL.md",
+          "text" : "skills\/xcsift\/SKILL.md"
+        },
+        {
+          "line" : 101,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "unresolved",
+          "text" : ".xcsift.toml"
+        },
+        {
+          "line" : 128,
+          "lineWritten" : "2026-10-16T06:25:44Z",
+          "status" : "unresolved",
+          "text" : ".claude\/skills"
+        },
+        {
+          "line" : 165,
+          "lineWritten" : "2026-03-22T11:24:20Z",
+          "status" : "unresolved",
+          "text" : "xcbeautify\/Tuist"
+        },
+        {
+          "line" : 166,
+          "lineWritten" : "2026-03-22T11:24:20Z",
+          "status" : "unresolved",
+          "text" : "xcbeautify\/Tuist"
+        },
+        {
+          "line" : 181,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "unresolved",
+          "text" : ".profraw\/.xcresult"
+        },
+        {
+          "line" : 196,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "ignored",
+          "text" : ".build\/arm64-apple-macosx\/debug\/codecov"
+        },
+        {
+          "line" : 197,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "unresolved",
+          "text" : "path\/to\/file.xcresult"
+        },
+        {
+          "line" : 201,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "ignored",
+          "text" : ".build\/debug\/codecov"
+        },
+        {
+          "line" : 202,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "ignored",
+          "text" : ".build\/arm64-apple-macosx\/debug\/codecov"
+        },
+        {
+          "line" : 203,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "ignored",
+          "text" : ".build\/x86_64-apple-macosx\/debug\/codecov"
+        },
+        {
+          "line" : 204,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "ignored",
+          "text" : ".build\/arm64-unknown-linux-gnu\/debug\/codecov"
+        },
+        {
+          "line" : 205,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "ignored",
+          "text" : ".build\/x86_64-unknown-linux-gnu\/debug\/codecov"
+        },
+        {
+          "line" : 240,
+          "lineWritten" : "2025-11-13T16:15:33Z",
+          "status" : "unresolved",
+          "text" : "Excel\/spreadsheet"
+        },
+        {
+          "line" : 243,
+          "lineWritten" : "2025-11-13T16:15:33Z",
+          "status" : "unresolved",
+          "text" : "Excel\/spreadsheet"
+        },
+        {
+          "line" : 259,
+          "lineWritten" : "2025-12-11T15:35:41Z",
+          "status" : "unresolved",
+          "text" : "Slow\/flaky"
+        },
+        {
+          "line" : 278,
+          "lineWritten" : "2025-12-19T06:55:03Z",
+          "status" : "unresolved",
+          "text" : ".xcsift.toml"
+        },
+        {
+          "line" : 286,
+          "lineWritten" : "2025-12-19T06:55:03Z",
+          "status" : "unresolved",
+          "text" : ".xcsift.toml"
+        },
+        {
+          "commitsSinceWritten" : 25,
+          "line" : 311,
+          "lineWritten" : "2026-03-22T11:24:20Z",
+          "status" : "live",
+          "target" : "Sources",
+          "text" : "Sources"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 319,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/MCPCommand.swift",
+          "text" : "MCPCommand.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 322,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/MCPProxyRunner.swift",
+          "text" : "MCPProxyRunner.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 327,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/MCPProxySession.swift",
+          "text" : "MCPProxySession.swift"
+        },
+        {
+          "line" : 331,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "unresolved",
+          "text" : "tools\/list"
+        },
+        {
+          "line" : 333,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "unresolved",
+          "text" : "tools\/list"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 335,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/MCPMessageFramer.swift",
+          "text" : "MCPMessageFramer.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 339,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/JSONValue.swift",
+          "text" : "JSONValue.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 341,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/BuildOutputSifter.swift",
+          "text" : "BuildOutputSifter.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 345,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/XCSiftCore\/XcodeTestResults.swift",
+          "text" : "XcodeTestResults.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 354,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/BuildLogReference.swift",
+          "text" : "BuildLogReference.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 357,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/MCP\/BuildOutputSifter.swift",
+          "text" : "BuildOutputSifter.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 359,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/Install\/MCPServerInstaller.swift",
+          "text" : "Install\/MCPServerInstaller.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 386,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/MCPProxy.md",
+          "text" : "Sources\/xcsift\/xcsift.docc\/MCPProxy.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 440,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Tests\/XCSiftCoreTests\/XcodeConsoleLogTests.swift",
+          "text" : "Tests\/XCSiftCoreTests\/XcodeConsoleLogTests.swift"
+        },
+        {
+          "line" : 475,
+          "lineWritten" : "2026-08-28T07:50:02Z",
+          "status" : "unresolved",
+          "text" : "error:\/warning:\/note"
+        },
+        {
+          "line" : 517,
+          "lineWritten" : "2026-01-21T17:54:43Z",
+          "status" : "unresolved",
+          "text" : "passed\/failed"
+        },
+        {
+          "line" : 518,
+          "lineWritten" : "2026-01-21T17:54:43Z",
+          "status" : "unresolved",
+          "text" : "passed\/failed"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 573,
+          "lineWritten" : "2026-09-29T11:00:02Z",
+          "status" : "live",
+          "target" : "Tests\/XCSiftCoreTests\/Fixtures",
+          "text" : "Tests\/XCSiftCoreTests\/Fixtures"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 583,
+          "lineWritten" : "2026-09-29T11:00:02Z",
+          "status" : "live",
+          "target" : "Tests\/XCSiftCoreTests\/Fixtures",
+          "text" : "Tests\/XCSiftCoreTests\/Fixtures"
+        },
+        {
+          "commitsSinceWritten" : 12,
+          "line" : 584,
+          "lineWritten" : "2025-12-05T05:26:52Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 701,
+          "lineWritten" : "2026-09-29T11:00:02Z",
+          "status" : "live",
+          "target" : "Tests\/XCSiftCoreTests\/FailedCommandTests.swift",
+          "text" : "Tests\/XCSiftCoreTests\/FailedCommandTests.swift"
+        },
+        {
+          "lastSeen" : "2026-05-12T05:59:38Z",
+          "line" : 722,
+          "lineWritten" : "2026-03-22T11:24:20Z",
+          "status" : "removed",
+          "text" : "Tests\/XcbeautifyTests.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 752,
+          "lineWritten" : "2026-10-13T07:54:39Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/ci.yml",
+          "text" : ".github\/workflows\/ci.yml"
+        },
+        {
+          "line" : 802,
+          "lineWritten" : "2025-11-05T07:53:45Z",
+          "status" : "unresolved",
+          "text" : "file.swift"
+        },
+        {
+          "line" : 950,
+          "lineWritten" : "2025-11-28T07:54:01Z",
+          "status" : "unresolved",
+          "text" : "JSON\/TOON"
+        },
+        {
+          "line" : 960,
+          "lineWritten" : "2025-12-19T06:55:03Z",
+          "status" : "unresolved",
+          "text" : ".xcsift.toml"
+        },
+        {
+          "line" : 967,
+          "lineWritten" : "2025-12-19T06:55:03Z",
+          "status" : "unresolved",
+          "text" : ".xcsift.toml"
+        },
+        {
+          "line" : 973,
+          "lineWritten" : "2025-12-19T06:55:03Z",
+          "status" : "unresolved",
+          "text" : ".xcsift.toml"
+        },
+        {
+          "line" : 1002,
+          "lineWritten" : "2026-03-22T11:24:20Z",
+          "status" : "unresolved",
+          "text" : "xcbeautify\/Tuist-formatted"
+        },
+        {
+          "lastSeen" : "2026-05-25T10:01:19Z",
+          "line" : 1041,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "removed",
+          "text" : "Sources\/xcsift.docc"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 1044,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/xcsift.md",
+          "text" : "xcsift.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 1045,
+          "lineWritten" : "2026-09-12T17:25:32Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/MCPProxy.md",
+          "text" : "MCPProxy.md"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 1046,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/GettingStarted.md",
+          "text" : "GettingStarted.md"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 1047,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/Usage.md",
+          "text" : "Usage.md"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 1048,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/OutputFormats.md",
+          "text" : "OutputFormats.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 1049,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "live",
+          "target" : "Sources\/xcsift\/xcsift.docc\/CodeCoverage.md",
+          "text" : "CodeCoverage.md"
+        },
+        {
+          "line" : 1061,
+          "lineWritten" : "2025-12-11T06:12:39Z",
+          "status" : "ignored",
+          "text" : "docs"
+        }
+      ]
+    }
+  ],
+  "head" : "5e8da86c1471f6b95fcd1932e3586a1b509f7edc"
+}

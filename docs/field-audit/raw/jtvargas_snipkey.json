@@ -1,0 +1,1035 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-08-28T11:44:08-04:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 36,
+          "line" : 37,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 38,
+          "line" : 43,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 38,
+          "line" : 46,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 36,
+          "line" : 50,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 38,
+          "line" : 69,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 38,
+          "line" : 73,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 38,
+          "line" : 78,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey.xcodeproj",
+          "text" : "SnipKey.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 40,
+          "line" : 88,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey",
+          "text" : "SnipKey"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 89,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/SnipKeyApp.swift",
+          "text" : "SnipKeyApp.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 90,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/ContentView.swift",
+          "text" : "ContentView.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 91,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/SnipKeyDataManager.swift",
+          "text" : "SnipKeyDataManager.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 92,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/SnipKey.entitlements",
+          "text" : "SnipKey.entitlements"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 93,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Info.plist",
+          "text" : "Info.plist"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 95,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Assets.xcassets",
+          "text" : "Assets.xcassets"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 97,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Core",
+          "text" : "Core"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 98,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Core\/Colors.swift",
+          "text" : "Colors.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 100,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components",
+          "text" : "Components"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 101,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/AboutApp.swift",
+          "text" : "AboutApp.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 102,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/TipDevView.swift",
+          "text" : "TipDevView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 103,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/TagColorPicker.swift",
+          "text" : "TagColorPicker.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 104,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/TagColorIndicator.swift",
+          "text" : "TagColorIndicator.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 105,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/MorphingSymbolView.swift",
+          "text" : "MorphingSymbolView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 106,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/StaggeredImagesList.swift",
+          "text" : "StaggeredImagesList.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 107,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Components\/LoopVideoView.swift",
+          "text" : "LoopVideoView.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 109,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper",
+          "text" : "Helper"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 110,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/Biometrics.swift",
+          "text" : "Biometrics.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 111,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/Keyboard.swift",
+          "text" : "Keyboard.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 112,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/RevenueCatManager.swift",
+          "text" : "RevenueCatManager.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 113,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/AppIconProvider.swift",
+          "text" : "AppIconProvider.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 114,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/Views.swift",
+          "text" : "Views.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 115,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/Strings.swift",
+          "text" : "Strings.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 117,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Tips",
+          "text" : "Tips"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 118,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Tips\/HomeTips.swift",
+          "text" : "HomeTips.swift"
+        },
+        {
+          "commitsSinceWritten" : 38,
+          "line" : 120,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features",
+          "text" : "Features"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 121,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View",
+          "text" : "Home\/View"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 122,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View\/HomeView2.swift",
+          "text" : "HomeView2.swift"
+        },
+        {
+          "line" : 122,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "Snippets\/Settings\/Search"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 123,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View\/HomeView.swift",
+          "text" : "HomeView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 124,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View\/HomeSnippetList.swift",
+          "text" : "HomeSnippetList.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 125,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View\/SearchView.swift",
+          "text" : "SearchView.swift"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 127,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets",
+          "text" : "Snippets"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 128,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/SnippetModel.swift",
+          "text" : "SnippetModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 129,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/SnippetViewModel.swift",
+          "text" : "SnippetViewModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 130,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views",
+          "text" : "Views"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 131,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetForm.swift",
+          "text" : "SnippetForm.swift"
+        },
+        {
+          "line" : 131,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "Create\/edit"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 132,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetViewDetail.swift",
+          "text" : "SnippetViewDetail.swift"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 133,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetListItem.swift",
+          "text" : "SnippetListItem.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 134,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetTagForm.swift",
+          "text" : "SnippetTagForm.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 135,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/EditTagView.swift",
+          "text" : "EditTagView.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 136,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/TagsView.swift",
+          "text" : "TagsView.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 137,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetContentForm.swift",
+          "text" : "SnippetContentForm.swift"
+        },
+        {
+          "line" : 137,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "text\/URL\/image\/PDF"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 138,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetContentViewDisplay.swift",
+          "text" : "SnippetContentViewDisplay.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 139,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetFilesView.swift",
+          "text" : "SnippetFilesView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 140,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetListEmpty.swift",
+          "text" : "SnippetListEmpty.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 141,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/KeyboardStatusView.swift",
+          "text" : "KeyboardStatusView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 142,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/ArrowSVG.swift",
+          "text" : "ArrowSVG.swift"
+        },
+        {
+          "commitsSinceWritten" : 25,
+          "line" : 144,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Settings",
+          "text" : "Settings"
+        },
+        {
+          "commitsSinceWritten" : 18,
+          "line" : 145,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Settings\/Model\/SettingsModel.swift",
+          "text" : "Model\/SettingsModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 146,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Settings\/ViewModel\/SettingsViewModel.swift",
+          "text" : "ViewModel\/SettingsViewModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 20,
+          "line" : 147,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Settings\/Views\/SettingsView.swift",
+          "text" : "Views\/SettingsView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 149,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Subscription\/Views",
+          "text" : "Subscription\/Views"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 150,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Subscription\/Views\/SubscriptionView.swift",
+          "text" : "SubscriptionView.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 152,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding",
+          "text" : "OnBoarding"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 153,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/OnBoardingModel.swift",
+          "text" : "OnBoardingModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 154,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Model\/Page.swift",
+          "text" : "Model\/Page.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 155,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views",
+          "text" : "Views"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 156,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views\/OnBoardingView.swift",
+          "text" : "OnBoardingView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 157,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views\/OnboardingStepperView.swift",
+          "text" : "OnboardingStepperView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 158,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views\/WelcomeView.swift",
+          "text" : "WelcomeView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 159,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views\/BoardingCardView.swift",
+          "text" : "BoardingCardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 160,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views\/Splashscreen.swift",
+          "text" : "Splashscreen.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 161,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/OnBoarding\/Views\/KeyboardHelpGuideView.swift",
+          "text" : "KeyboardHelpGuideView.swift"
+        },
+        {
+          "commitsSinceWritten" : 62,
+          "line" : 163,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKeyboard",
+          "text" : "SnipKeyboard"
+        },
+        {
+          "commitsSinceWritten" : 36,
+          "line" : 164,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardViewController.swift",
+          "text" : "KeyboardViewController.swift"
+        },
+        {
+          "commitsSinceWritten" : 17,
+          "line" : 165,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardView.swift",
+          "text" : "KeyboardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 166,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/SnipKeyboard.entitlements",
+          "text" : "SnipKeyboard.entitlements"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 167,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKey\/Info.plist",
+          "text" : "Info.plist"
+        },
+        {
+          "commitsSinceWritten" : 56,
+          "line" : 168,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY",
+          "text" : "QWERTY"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 169,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/KeyboardDimensions.swift",
+          "text" : "KeyboardDimensions.swift"
+        },
+        {
+          "commitsSinceWritten" : 11,
+          "line" : 170,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/QWERTYKeyboardState.swift",
+          "text" : "QWERTYKeyboardState.swift"
+        },
+        {
+          "commitsSinceWritten" : 21,
+          "line" : 171,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/KeyboardActions.swift",
+          "text" : "KeyboardActions.swift"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 172,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/QWERTYKeyboardLayout.swift",
+          "text" : "QWERTYKeyboardLayout.swift"
+        },
+        {
+          "line" : 172,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "unresolved",
+          "text" : "letters\/numbers\/symbols"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 173,
+          "lineWritten" : "2026-08-28T15:29:14Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/QWERTYKeyboardView.swift",
+          "text" : "QWERTYKeyboardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 174,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/SlashCommandEngine.swift",
+          "text" : "SlashCommandEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 175,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/PredictiveTextEngine.swift",
+          "text" : "PredictiveTextEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 176,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/BigramEngine.swift",
+          "text" : "BigramEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 177,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/DynamicHitResolver.swift",
+          "text" : "DynamicHitResolver.swift"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 178,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/ProbabilisticTouchContext.swift",
+          "text" : "ProbabilisticTouchContext.swift"
+        },
+        {
+          "line" : 229,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "image\/png"
+        },
+        {
+          "line" : 229,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "image\/jpeg"
+        },
+        {
+          "line" : 229,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "application\/pdf"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 304,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/SnippetModel.swift",
+          "text" : "SnippetModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 305,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/SnippetViewModel.swift",
+          "text" : "SnippetViewModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 306,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetForm.swift",
+          "text" : "SnippetForm.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 312,
+          "lineWritten" : "2026-01-22T19:44:08Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/SnippetViewModel.swift",
+          "text" : "SnippetViewModel.swift"
+        },
+        {
+          "line" : 315,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "unresolved",
+          "text" : "SnipType.txt"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 429,
+          "lineWritten" : "2026-08-28T15:29:14Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/V2",
+          "text" : "SnipKeyboard\/QWERTY\/V2"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 470,
+          "lineWritten" : "2026-02-11T17:21:30Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/SlashCommandEngine.swift",
+          "text" : "SlashCommandEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 19,
+          "line" : 471,
+          "lineWritten" : "2026-02-11T17:21:30Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/KeyboardActions.swift",
+          "text" : "KeyboardActions.swift"
+        },
+        {
+          "commitsSinceWritten" : 33,
+          "line" : 472,
+          "lineWritten" : "2026-02-11T17:21:30Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardViewController.swift",
+          "text" : "KeyboardViewController.swift"
+        },
+        {
+          "commitsSinceWritten" : 20,
+          "line" : 473,
+          "lineWritten" : "2026-02-11T17:21:30Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/QWERTYKeyboardView.swift",
+          "text" : "QWERTYKeyboardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 474,
+          "lineWritten" : "2026-08-28T15:29:14Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/V2\/KeyboardGestureCoordinator.swift",
+          "text" : "KeyboardGestureCoordinator.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 474,
+          "lineWritten" : "2026-08-28T15:29:14Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/V2\/KeyboardCommitPipeline.swift",
+          "text" : "KeyboardCommitPipeline.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 485,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/BigramEngine.swift",
+          "text" : "BigramEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 486,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/DynamicHitResolver.swift",
+          "text" : "DynamicHitResolver.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 487,
+          "lineWritten" : "2026-08-28T15:29:14Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/ProbabilisticTouchContext.swift",
+          "text" : "ProbabilisticTouchContext.swift"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 488,
+          "lineWritten" : "2026-02-12T15:12:20Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/QWERTYKeyboardState.swift",
+          "text" : "QWERTYKeyboardState.swift"
+        },
+        {
+          "commitsSinceWritten" : 17,
+          "line" : 499,
+          "lineWritten" : "2026-02-11T00:44:44Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardView.swift",
+          "text" : "KeyboardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 518,
+          "lineWritten" : "2026-06-04T17:42:31Z",
+          "status" : "live",
+          "target" : "SnipKey\/Shared\/Notifications\/LocalNotificationScheduler.swift",
+          "text" : "SnipKey\/Shared\/Notifications\/LocalNotificationScheduler.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 521,
+          "lineWritten" : "2026-06-04T17:42:31Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Notifications\/NotificationPresenter.swift",
+          "text" : "SnipKey\/Features\/Notifications\/NotificationPresenter.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 526,
+          "lineWritten" : "2026-06-04T19:51:06Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/ReminderParseEngine.swift",
+          "text" : "SnipKeyboard\/QWERTY\/ReminderParseEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 530,
+          "lineWritten" : "2026-06-04T19:51:06Z",
+          "status" : "live",
+          "target" : "REMINDER_NLP.md",
+          "text" : "REMINDER_NLP.md"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 538,
+          "lineWritten" : "2026-06-04T17:42:31Z",
+          "status" : "live",
+          "target" : "LOCAL_NOTIFICATIONS.md",
+          "text" : "LOCAL_NOTIFICATIONS.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 550,
+          "lineWritten" : "2026-06-05T19:32:47Z",
+          "status" : "live",
+          "target" : "SnipKey\/Shared\/Reminders\/EventKitReminderService.swift",
+          "text" : "SnipKey\/Shared\/Reminders\/EventKitReminderService.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 559,
+          "lineWritten" : "2026-06-06T19:42:32Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/QWERTY\/TimerParseEngine.swift",
+          "text" : "SnipKeyboard\/QWERTY\/TimerParseEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 565,
+          "lineWritten" : "2026-06-05T19:32:47Z",
+          "status" : "live",
+          "target" : "INTEGRATIONS.md",
+          "text" : "INTEGRATIONS.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 632,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/SnippetModel.swift",
+          "text" : "SnippetModel.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 633,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetContentForm.swift",
+          "text" : "SnippetContentForm.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 634,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Snippets\/Views\/SnippetContentViewDisplay.swift",
+          "text" : "SnippetContentViewDisplay.swift"
+        },
+        {
+          "commitsSinceWritten" : 18,
+          "line" : 635,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardView.swift",
+          "text" : "KeyboardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 18,
+          "line" : 640,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardView.swift",
+          "text" : "KeyboardView.swift"
+        },
+        {
+          "commitsSinceWritten" : 37,
+          "line" : 640,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKeyboard\/KeyboardViewController.swift",
+          "text" : "KeyboardViewController.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 654,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/ContentView.swift",
+          "text" : "ContentView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 655,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View\/HomeView.swift",
+          "text" : "HomeView.swift"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 655,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Features\/Home\/View\/HomeView2.swift",
+          "text" : "HomeView2.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 659,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "SnipKey\/Helper\/RevenueCatManager.swift",
+          "text" : "RevenueCatManager.swift"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 672,
+          "lineWritten" : "2026-02-06T17:52:11Z",
+          "status" : "live",
+          "target" : "README.md",
+          "text" : "README.md"
+        }
+      ]
+    }
+  ],
+  "head" : "7797d3992da53369ee034ba1e483bdc4db859c4d"
+}

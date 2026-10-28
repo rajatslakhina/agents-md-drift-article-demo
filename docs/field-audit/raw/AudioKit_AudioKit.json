@@ -1,0 +1,119 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-03-27T11:10:56+01:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "line" : 28,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "unresolved",
+          "text" : "Internals\/Engine\/Node.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 29,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Internals\/Engine\/AudioEngine.swift",
+          "text" : "Internals\/Engine\/AudioEngine.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 31,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Internals\/Settings",
+          "text" : "Internals\/Settings"
+        },
+        {
+          "commitsSinceWritten" : 12,
+          "line" : 35,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Nodes",
+          "text" : "Nodes"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 36,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Nodes\/Effects",
+          "text" : "Effects"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 37,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Nodes\/Generators",
+          "text" : "Generators"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 38,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Nodes\/Mixing",
+          "text" : "Mixing"
+        },
+        {
+          "commitsSinceWritten" : 11,
+          "line" : 39,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Nodes\/Playback",
+          "text" : "Playback"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 40,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/MIDI",
+          "text" : "MIDI"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 41,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Taps",
+          "text" : "Taps"
+        },
+        {
+          "commitsSinceWritten" : 8,
+          "line" : 42,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Internals",
+          "text" : "Internals"
+        },
+        {
+          "line" : 43,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "unresolved",
+          "text" : "Files"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 44,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Sources\/AudioKit\/Sequencing",
+          "text" : "Sequencing"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 56,
+          "lineWritten" : "2026-03-25T00:30:42Z",
+          "status" : "live",
+          "target" : "Tests\/AudioKitTests\/ValidatedMD5s.swift",
+          "text" : "ValidatedMD5s.swift"
+        }
+      ]
+    }
+  ],
+  "head" : "c358c15fdcdd0e78c4b4988f5c532c7cfb5c2eeb"
+}

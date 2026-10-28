@@ -1,0 +1,138 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-06-23T09:47:05-07:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 16,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample.xcodeproj",
+          "text" : "PersonaExample\/PersonaExample.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 18,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample",
+          "text" : "PersonaExample\/PersonaExample"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 19,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/App\/PersonaExampleApp.swift",
+          "text" : "App\/PersonaExampleApp.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 20,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/Configuration\/PersonaConfiguration.swift",
+          "text" : "Configuration\/PersonaConfiguration.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 21,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/Home\/HomeView.swift",
+          "text" : "Home\/HomeView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 22,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/SwiftUIExample\/SwiftUIInquiryView.swift",
+          "text" : "SwiftUIExample\/SwiftUIInquiryView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 23,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/UIKitExample\/UIKitInquiryViewController.swift",
+          "text" : "UIKitExample\/UIKitInquiryViewController.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 24,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/UIKitExample\/UIKitInquiryView.swift",
+          "text" : "UIKitExample\/UIKitInquiryView.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 25,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/Shared",
+          "text" : "Shared"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 31,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample.xcodeproj",
+          "text" : "PersonaExample\/PersonaExample.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 38,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : ".swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 46,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample.xcodeproj\/project.xcworkspace\/xcshareddata\/swiftpm\/Package.resolved",
+          "text" : "PersonaExample.xcodeproj\/project.xcworkspace\/xcshareddata\/swiftpm\/Package.resolved"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 85,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/Shared\/InquiryOutcome.swift",
+          "text" : "Shared\/InquiryOutcome.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 91,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample",
+          "text" : "PersonaExample\/PersonaExample"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 93,
+          "lineWritten" : "2026-06-23T16:47:05Z",
+          "status" : "live",
+          "target" : "PersonaExample\/PersonaExample\/Info.plist",
+          "text" : "Info.plist"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-06-23T09:47:05-07:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+
+      ]
+    }
+  ],
+  "head" : "c80e60d62cb6ea901dc41113597a54e3dbf3ac40"
+}

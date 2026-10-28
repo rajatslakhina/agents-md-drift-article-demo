@@ -1,0 +1,213 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-07-10T18:56:16-07:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 53,
+          "line" : 3,
+          "lineWritten" : "2026-07-11T01:56:16Z",
+          "status" : "live",
+          "target" : "RepoHandover.md",
+          "text" : "RepoHandover.md"
+        },
+        {
+          "commitsSinceWritten" : 26,
+          "line" : 8,
+          "lineWritten" : "2025-10-18T00:02:50Z",
+          "status" : "live",
+          "target" : "agents.md",
+          "text" : "agents.md"
+        },
+        {
+          "commitsSinceWritten" : 26,
+          "line" : 9,
+          "lineWritten" : "2025-10-18T00:02:50Z",
+          "status" : "live",
+          "target" : "agents.md",
+          "text" : "agents.md"
+        },
+        {
+          "commitsSinceWritten" : 26,
+          "line" : 17,
+          "lineWritten" : "2025-10-18T00:02:50Z",
+          "status" : "live",
+          "target" : "agents.md",
+          "text" : "agents.md"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 18,
+          "lineWritten" : "2025-10-25T06:32:25Z",
+          "status" : "live",
+          "target" : "scripts\/xcode_add_file.rb",
+          "text" : "scripts\/xcode_add_file.rb"
+        },
+        {
+          "commitsSinceWritten" : 24,
+          "line" : 18,
+          "lineWritten" : "2025-10-25T06:32:25Z",
+          "status" : "live",
+          "target" : "agents.md",
+          "text" : "agents.md"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-22T18:11:20-07:00",
+      "path" : "agents.md",
+      "references" : [
+        {
+          "line" : 7,
+          "lineWritten" : "2026-09-03T19:29:48Z",
+          "status" : "unresolved",
+          "text" : "PROGRESS.md"
+        },
+        {
+          "commitsSinceWritten" : 12,
+          "line" : 7,
+          "lineWritten" : "2026-09-03T19:29:48Z",
+          "status" : "live",
+          "target" : "RepoHandover.md",
+          "text" : "RepoHandover.md"
+        },
+        {
+          "line" : 10,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "ignored",
+          "text" : "Marketing\/STATUS.md"
+        },
+        {
+          "line" : 15,
+          "lineWritten" : "2026-08-30T22:04:28Z",
+          "status" : "ignored",
+          "text" : "Marketing"
+        },
+        {
+          "line" : 24,
+          "lineWritten" : "2026-09-11T04:07:59Z",
+          "status" : "unresolved",
+          "text" : "scripts\/browser-client.mjs"
+        },
+        {
+          "commitsSinceWritten" : 60,
+          "line" : 56,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "live",
+          "target" : "AgentSessions.xcodeproj",
+          "text" : "AgentSessions.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 59,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "live",
+          "target" : "scripts\/xcode_test_stable.sh",
+          "text" : ".\/scripts\/xcode_test_stable.sh"
+        },
+        {
+          "commitsSinceWritten" : 60,
+          "line" : 63,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "live",
+          "target" : "AgentSessions.xcodeproj",
+          "text" : "AgentSessions.xcodeproj"
+        },
+        {
+          "line" : 101,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "ignored",
+          "text" : ".deriveddata-manual\/Build\/Products\/Debug\/AgentSessions.app"
+        },
+        {
+          "commitsSinceWritten" : 172,
+          "line" : 136,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "live",
+          "target" : "docs\/CHANGELOG.md",
+          "text" : "docs\/CHANGELOG.md"
+        },
+        {
+          "line" : 136,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "unresolved",
+          "text" : "docs\/summaries\/YYYY-MM.md"
+        },
+        {
+          "commitsSinceWritten" : 63,
+          "line" : 145,
+          "lineWritten" : "2026-08-16T02:46:02Z",
+          "status" : "live",
+          "target" : "docs\/backlog.md",
+          "text" : "docs\/backlog.md"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 160,
+          "lineWritten" : "2025-10-25T06:32:25Z",
+          "status" : "live",
+          "target" : "scripts\/xcode_add_file.rb",
+          "text" : ".\/scripts\/xcode_add_file.rb"
+        },
+        {
+          "commitsSinceWritten" : 328,
+          "line" : 160,
+          "lineWritten" : "2025-10-25T06:32:25Z",
+          "status" : "live",
+          "target" : "AgentSessions.xcodeproj",
+          "text" : "AgentSessions.xcodeproj"
+        },
+        {
+          "line" : 161,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "unresolved",
+          "text" : "AgentSessions\/Feature\/NewFile.swift"
+        },
+        {
+          "line" : 161,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "unresolved",
+          "text" : "AgentSessions\/Feature"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 163,
+          "lineWritten" : "2025-10-25T06:32:25Z",
+          "status" : "live",
+          "target" : "scripts\/xcode_add_file.rb",
+          "text" : ".\/scripts\/xcode_add_file.rb"
+        },
+        {
+          "commitsSinceWritten" : 328,
+          "line" : 163,
+          "lineWritten" : "2025-10-25T06:32:25Z",
+          "status" : "live",
+          "target" : "AgentSessions.xcodeproj",
+          "text" : "AgentSessions.xcodeproj"
+        },
+        {
+          "line" : 164,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "unresolved",
+          "text" : "AgentSessionsTests\/NewFileTests.swift"
+        },
+        {
+          "commitsSinceWritten" : 60,
+          "line" : 169,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "live",
+          "target" : "AgentSessions.xcodeproj",
+          "text" : "AgentSessions.xcodeproj"
+        },
+        {
+          "line" : 220,
+          "lineWritten" : "2026-08-17T22:20:33Z",
+          "status" : "ignored",
+          "text" : "scripts\/probe_scan_output"
+        }
+      ]
+    }
+  ],
+  "head" : "8ca7aa603fe5c8b098cf4a4c771fb089219659d3"
+}

@@ -1,0 +1,898 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-10-20T22:35:36-03:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 5,
+          "lineWritten" : "2026-08-06T19:47:11Z",
+          "status" : "live",
+          "target" : "CLAUDE.md",
+          "text" : "CLAUDE.md"
+        },
+        {
+          "line" : 15,
+          "lineWritten" : "2026-08-03T17:39:07Z",
+          "status" : "ignored",
+          "text" : ".plans"
+        },
+        {
+          "line" : 17,
+          "lineWritten" : "2026-08-03T17:39:07Z",
+          "status" : "ignored",
+          "text" : ".plans"
+        },
+        {
+          "commitsSinceWritten" : 139,
+          "line" : 24,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "rust",
+          "text" : "rust"
+        },
+        {
+          "commitsSinceWritten" : 11,
+          "line" : 31,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/swift.yml",
+          "text" : ".github\/workflows\/swift.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 40,
+          "lineWritten" : "2026-10-21T01:35:36Z",
+          "status" : "live",
+          "target" : "Tests\/lightwalletd\/lightwalletd",
+          "text" : "Tests\/lightwalletd\/lightwalletd"
+        },
+        {
+          "commitsSinceWritten" : 139,
+          "line" : 45,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "rust",
+          "text" : "rust"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 45,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "line" : 45,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "ignored",
+          "text" : "LocalPackages\/Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 47,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "line" : 48,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "ignored",
+          "text" : "LocalPackages"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 52,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Scripts\/init-local-ffi.sh",
+          "text" : ".\/Scripts\/init-local-ffi.sh"
+        },
+        {
+          "line" : 52,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "ignored",
+          "text" : "LocalPackages"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 53,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Scripts\/rebuild-local-ffi.sh",
+          "text" : ".\/Scripts\/rebuild-local-ffi.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 54,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Scripts\/reset-local-ffi.sh",
+          "text" : ".\/Scripts\/reset-local-ffi.sh"
+        },
+        {
+          "line" : 54,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "ignored",
+          "text" : "LocalPackages"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 56,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "ZcashSDK.xcworkspace",
+          "text" : "ZcashSDK.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 56,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 56,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Scripts\/init-local-ffi.sh",
+          "text" : "init-local-ffi.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 56,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Scripts\/rebuild-local-ffi.sh",
+          "text" : "rebuild-local-ffi.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 60,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "docs\/LOCAL_DEVELOPMENT.md",
+          "text" : "docs\/LOCAL_DEVELOPMENT.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 65,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 68,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "Scripts\/prepare-release.sh",
+          "text" : ".\/Scripts\/prepare-release.sh"
+        },
+        {
+          "line" : 68,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "unresolved",
+          "text" : "release\/X.Y.Z"
+        },
+        {
+          "line" : 68,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "unresolved",
+          "text" : "candidate\/X.Y.Z"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 69,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "Scripts\/prepare-release.sh",
+          "text" : ".\/Scripts\/prepare-release.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 69,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 70,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "Scripts\/prepare-release.sh",
+          "text" : ".\/Scripts\/prepare-release.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 71,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "Scripts\/release.sh",
+          "text" : ".\/Scripts\/release.sh"
+        },
+        {
+          "line" : 71,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "unresolved",
+          "text" : "release\/X.Y.Z"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 75,
+          "lineWritten" : "2026-08-07T02:21:37Z",
+          "status" : "live",
+          "target" : "Scripts\/lib\/release-lib.sh",
+          "text" : "Scripts\/lib\/release-lib.sh"
+        },
+        {
+          "commitsSinceWritten" : 118,
+          "line" : 82,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "rust\/src",
+          "text" : "rust\/src"
+        },
+        {
+          "commitsSinceWritten" : 144,
+          "line" : 83,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit",
+          "text" : "Sources\/ZcashLightClientKit"
+        },
+        {
+          "commitsSinceWritten" : 72,
+          "line" : 85,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Rust",
+          "text" : "Sources\/ZcashLightClientKit\/Rust"
+        },
+        {
+          "commitsSinceWritten" : 36,
+          "line" : 93,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Synchronizer.swift",
+          "text" : "Synchronizer.swift"
+        },
+        {
+          "commitsSinceWritten" : 32,
+          "line" : 94,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Synchronizer\/SDKSynchronizer.swift",
+          "text" : "Synchronizer\/SDKSynchronizer.swift"
+        },
+        {
+          "line" : 94,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "unresolved",
+          "text" : "async\/await"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 95,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Synchronizer\/Dependencies.swift",
+          "text" : "Synchronizer\/Dependencies.swift"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 96,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Initializer.swift",
+          "text" : "Initializer.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 100,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Block\/CompactBlockProcessor.swift",
+          "text" : "Block\/CompactBlockProcessor.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 100,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Block\/Actions\/Action.swift",
+          "text" : "Block\/Actions\/Action.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 102,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Block\/Download",
+          "text" : "Block\/Download"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 102,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Block\/FilesystemStorage",
+          "text" : "Block\/FilesystemStorage"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 102,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/DAO",
+          "text" : "DAO"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 102,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Repository",
+          "text" : "Repository"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 108,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Modules\/Service\/GRPC",
+          "text" : "Modules\/Service\/GRPC"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 108,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "lightwallet-protocol",
+          "text" : "lightwallet-protocol"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 108,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Scripts\/update-lightwallet-protocol.sh",
+          "text" : "Scripts\/update-lightwallet-protocol.sh"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 108,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Modules\/Service\/GRPC\/ProtoBuf\/proto\/proposal.proto",
+          "text" : "ProtoBuf\/proto\/proposal.proto"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 108,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Scripts\/update-proposal-proto.sh",
+          "text" : "Scripts\/update-proposal-proto.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 108,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/proto-sync.yml",
+          "text" : "proto-sync.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 109,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Modules\/Service\/Tor",
+          "text" : "Modules\/Service\/Tor"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 109,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Tor\/TorClient.swift",
+          "text" : "Tor\/TorClient.swift"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 110,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Modules\/Service\/LightWalletService.swift",
+          "text" : "Modules\/Service\/LightWalletService.swift"
+        },
+        {
+          "commitsSinceWritten" : 30,
+          "line" : 116,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Error\/ZcashError.swift",
+          "text" : "Error\/ZcashError.swift"
+        },
+        {
+          "commitsSinceWritten" : 29,
+          "line" : 116,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Error\/ZcashErrorCode.swift",
+          "text" : "Error\/ZcashErrorCode.swift"
+        },
+        {
+          "commitsSinceWritten" : 32,
+          "line" : 116,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Error\/ZcashErrorCodeDefinition.swift",
+          "text" : "Error\/ZcashErrorCodeDefinition.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 116,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Error\/Sourcery\/generateErrorCode.sh",
+          "text" : "Error\/Sourcery\/generateErrorCode.sh"
+        },
+        {
+          "commitsSinceWritten" : 32,
+          "line" : 116,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Error\/ZcashErrorCodeDefinition.swift",
+          "text" : "ZcashErrorCodeDefinition.swift"
+        },
+        {
+          "commitsSinceWritten" : 41,
+          "line" : 117,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Tests\/TestUtils\/Sourcery\/GeneratedMocks\/AutoMockable.generated.swift",
+          "text" : "Tests\/TestUtils\/Sourcery\/GeneratedMocks\/AutoMockable.generated.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 117,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Tests\/TestUtils\/Sourcery\/generateMocks.sh",
+          "text" : "Tests\/TestUtils\/Sourcery\/generateMocks.sh"
+        },
+        {
+          "commitsSinceWritten" : 118,
+          "line" : 120,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Tests",
+          "text" : "Tests"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 120,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : ".swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 120,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : ".swiftlint_tests.yml",
+          "text" : ".swiftlint_tests.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 124,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Checkpoint\/BundleCheckpointSource.swift",
+          "text" : "Checkpoint\/BundleCheckpointSource.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 134,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Model\/WalletTypes.swift",
+          "text" : "Model\/WalletTypes.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 134,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Model\/Memo.swift",
+          "text" : "Model\/Memo.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 134,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Account\/Account.swift",
+          "text" : "Account\/Account.swift"
+        },
+        {
+          "commitsSinceWritten" : 53,
+          "line" : 135,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Rust\/ZcashRustBackend.swift",
+          "text" : "Rust\/ZcashRustBackend.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 135,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Rust\/ZcashKeyDerivationBackend.swift",
+          "text" : "Rust\/ZcashKeyDerivationBackend.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 137,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Model\/WalletTypes.swift",
+          "text" : "Model\/WalletTypes.swift"
+        },
+        {
+          "commitsSinceWritten" : 36,
+          "line" : 138,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Synchronizer.swift",
+          "text" : "Synchronizer.swift"
+        },
+        {
+          "commitsSinceWritten" : 32,
+          "line" : 145,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/Error\/ZcashErrorCodeDefinition.swift",
+          "text" : "Error\/ZcashErrorCodeDefinition.swift"
+        },
+        {
+          "line" : 163,
+          "lineWritten" : "2026-08-03T16:45:08Z",
+          "status" : "unresolved",
+          "text" : "zcash_client_sqlite\/src\/wallet\/db.rs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 183,
+          "lineWritten" : "2026-08-03T16:45:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/DAO",
+          "text" : "Sources\/ZcashLightClientKit\/DAO"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 188,
+          "lineWritten" : "2026-08-03T16:45:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/DAO\/TransactionDao.swift",
+          "text" : "TransactionDao.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 189,
+          "lineWritten" : "2026-08-03T16:45:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/DAO\/BlockDao.swift",
+          "text" : "BlockDao.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 191,
+          "lineWritten" : "2026-08-03T16:45:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/DAO\/PagedTransactionDao.swift",
+          "text" : "PagedTransactionDao.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 191,
+          "lineWritten" : "2026-08-03T16:45:08Z",
+          "status" : "live",
+          "target" : "Sources\/ZcashLightClientKit\/DAO\/UnspentTransactionOutputDao.swift",
+          "text" : "UnspentTransactionOutputDao.swift"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 205,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/swift.yml",
+          "text" : "swift.yml"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 211,
+          "lineWritten" : "2026-08-07T23:17:36Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/swift.yml",
+          "text" : "swift.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 212,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/swiftlint.yml",
+          "text" : "swiftlint.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 212,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 213,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/proto-sync.yml",
+          "text" : "proto-sync.yml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 213,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Scripts\/update-proposal-proto.sh",
+          "text" : ".\/Scripts\/update-proposal-proto.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 214,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/zizmor.yml",
+          "text" : "zizmor.yml"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 216,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/codeql.yml",
+          "text" : "codeql.yml"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 219,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "README.md",
+          "text" : "README.md"
+        },
+        {
+          "commitsSinceWritten" : 85,
+          "line" : 219,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "CHANGELOG.md",
+          "text" : "CHANGELOG.md"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 220,
+          "lineWritten" : "2026-08-04T04:02:42Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 220,
+          "lineWritten" : "2026-08-04T04:02:42Z",
+          "status" : "live",
+          "target" : "SWIFTLINT.md",
+          "text" : "SWIFTLINT.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 220,
+          "lineWritten" : "2026-08-04T04:02:42Z",
+          "status" : "live",
+          "target" : "responsible_disclosure.md",
+          "text" : "responsible_disclosure.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 221,
+          "lineWritten" : "2026-08-04T04:02:42Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/proto-sync.yml",
+          "text" : "proto-sync.yml"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 222,
+          "lineWritten" : "2026-08-04T04:02:42Z",
+          "status" : "live",
+          "target" : "AGENTS.md",
+          "text" : "AGENTS.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 229,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 76,
+          "line" : 230,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "rust",
+          "text" : "rust"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 236,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 242,
+          "lineWritten" : "2026-08-07T23:17:36Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/swift.yml",
+          "text" : "swift.yml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 254,
+          "lineWritten" : "2026-07-31T12:20:44Z",
+          "status" : "live",
+          "target" : "Scripts\/update-proposal-proto.sh",
+          "text" : ".\/Scripts\/update-proposal-proto.sh"
+        },
+        {
+          "lastSeen" : "2022-02-28T17:03:20Z",
+          "line" : 257,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "removed",
+          "text" : "zcashlc.h"
+        },
+        {
+          "line" : 263,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "ignored",
+          "text" : ".worktrees"
+        },
+        {
+          "line" : 267,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "ignored",
+          "text" : ".worktrees\/fix-something"
+        },
+        {
+          "line" : 267,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "unresolved",
+          "text" : "fix\/something"
+        },
+        {
+          "line" : 267,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "unresolved",
+          "text" : "maint\/v2.8.x"
+        },
+        {
+          "commitsSinceWritten" : 92,
+          "line" : 276,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "live",
+          "target" : "CHANGELOG.md",
+          "text" : "CHANGELOG.md"
+        },
+        {
+          "commitsSinceWritten" : 40,
+          "line" : 277,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "live",
+          "target" : "rust\/CHANGELOG.md",
+          "text" : "rust\/CHANGELOG.md"
+        },
+        {
+          "commitsSinceWritten" : 29,
+          "line" : 309,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "live",
+          "target" : "MIGRATING.md",
+          "text" : "MIGRATING.md"
+        },
+        {
+          "commitsSinceWritten" : 29,
+          "line" : 310,
+          "lineWritten" : "2026-07-30T04:14:03Z",
+          "status" : "live",
+          "target" : "MIGRATING.md",
+          "text" : "MIGRATING.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 322,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "SWIFTLINT.md",
+          "text" : "SWIFTLINT.md"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 323,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 324,
+          "lineWritten" : "2026-07-26T04:01:39Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 325,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "CODE_REVIEW_GUIDELINES.md",
+          "text" : "CODE_REVIEW_GUIDELINES.md"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 326,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "docs",
+          "text" : "docs"
+        },
+        {
+          "line" : 327,
+          "lineWritten" : "2026-07-27T03:08:54Z",
+          "status" : "ignored",
+          "text" : ".plans"
+        },
+        {
+          "commitsSinceWritten" : 139,
+          "line" : 328,
+          "lineWritten" : "2026-07-24T17:00:08Z",
+          "status" : "live",
+          "target" : "rust",
+          "text" : "rust"
+        }
+      ]
+    }
+  ],
+  "head" : "ebd0adda8e7328f4ca2c988fb615a222f54f14f3"
+}

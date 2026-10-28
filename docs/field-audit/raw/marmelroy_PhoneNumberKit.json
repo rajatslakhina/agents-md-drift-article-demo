@@ -1,0 +1,59 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2025-10-23T20:47:28+02:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 29,
+          "lineWritten" : "2025-10-23T18:47:28Z",
+          "status" : "live",
+          "target" : "PhoneNumberKit.xcodeproj",
+          "text" : "PhoneNumberKit.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 32,
+          "lineWritten" : "2025-10-23T18:47:28Z",
+          "status" : "live",
+          "target" : "PhoneNumberKit.xcodeproj",
+          "text" : "PhoneNumberKit.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 35,
+          "lineWritten" : "2025-10-23T18:47:28Z",
+          "status" : "live",
+          "target" : "PhoneNumberKit.xcodeproj",
+          "text" : "PhoneNumberKit.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 38,
+          "lineWritten" : "2025-10-23T18:47:28Z",
+          "status" : "live",
+          "target" : "PhoneNumberKit.xcodeproj",
+          "text" : "PhoneNumberKit.xcodeproj"
+        },
+        {
+          "commitsSinceWritten" : 15,
+          "line" : 53,
+          "lineWritten" : "2025-10-23T18:47:28Z",
+          "status" : "live",
+          "target" : "PhoneNumberKit\/Resources",
+          "text" : "PhoneNumberKit\/Resources"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 53,
+          "lineWritten" : "2025-10-23T18:47:28Z",
+          "status" : "live",
+          "target" : "PhoneNumberKit\/Resources\/update_metadata.sh",
+          "text" : ".\/update_metadata.sh"
+        }
+      ]
+    }
+  ],
+  "head" : "169ab10234347fb19b37441f2867ace896a284b0"
+}

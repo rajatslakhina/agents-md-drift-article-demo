@@ -1,0 +1,41 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-07-08T10:01:54-04:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 55,
+          "lineWritten" : "2026-06-05T18:49:52Z",
+          "status" : "live",
+          "target" : ".coderabbit.yaml",
+          "text" : ".coderabbit.yaml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 62,
+          "lineWritten" : "2025-12-18T20:41:28Z",
+          "status" : "live",
+          "target" : ".github\/pull_request_template.md",
+          "text" : ".github\/pull_request_template.md"
+        },
+        {
+          "line" : 91,
+          "lineWritten" : "2026-03-12T20:26:33Z",
+          "status" : "unresolved",
+          "text" : "pointfreeco\/swift-snapshot-testing"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 98,
+          "lineWritten" : "2026-03-12T20:26:33Z",
+          "status" : "live",
+          "target" : ".swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        }
+      ]
+    }
+  ],
+  "head" : "8be29497918589dd56071d47ff8e39a1d995176e"
+}

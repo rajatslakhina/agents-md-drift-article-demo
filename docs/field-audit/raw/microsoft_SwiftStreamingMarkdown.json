@@ -1,0 +1,282 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-07-07T15:14:29-07:00",
+      "path" : "AGENTS.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 18,
+          "line" : 7,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Examples",
+          "text" : "Examples"
+        },
+        {
+          "lastSeen" : "2026-06-30T20:46:31Z",
+          "line" : 14,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "removed",
+          "text" : "Sources\/MarkdownText\/UI\/UIKit"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 19,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : ".swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        },
+        {
+          "line" : 24,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "unresolved",
+          "text" : "SwiftStreamingMarkdown"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 26,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 31,
+          "line" : 27,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources",
+          "text" : "Sources"
+        },
+        {
+          "commitsSinceWritten" : 31,
+          "line" : 28,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText",
+          "text" : "MarkdownText"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 29,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Block",
+          "text" : "Block"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 30,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Inline",
+          "text" : "Inline"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 31,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Citation",
+          "text" : "Citation"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 32,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Style",
+          "text" : "Style"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 33,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/TextTransition",
+          "text" : "TextTransition"
+        },
+        {
+          "commitsSinceWritten" : 25,
+          "line" : 34,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/UI",
+          "text" : "UI"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 35,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/UI\/Paragraph\/UIKit",
+          "text" : "UIKit"
+        },
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 36,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Utilities",
+          "text" : "Utilities"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 37,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Examples\/SwiftStreamingMarkdownSample\/SwiftStreamingMarkdownSample\/Resources",
+          "text" : "Resources"
+        },
+        {
+          "commitsSinceWritten" : 19,
+          "line" : 38,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Tests",
+          "text" : "Tests"
+        },
+        {
+          "commitsSinceWritten" : 19,
+          "line" : 39,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Tests\/MarkdownTextTests",
+          "text" : "MarkdownTextTests"
+        },
+        {
+          "commitsSinceWritten" : 18,
+          "line" : 40,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Examples",
+          "text" : "Examples"
+        },
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 41,
+          "lineWritten" : "2026-06-02T21:59:45Z",
+          "status" : "live",
+          "target" : "Examples\/SwiftStreamingMarkdownSample",
+          "text" : "SwiftStreamingMarkdownSample"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 41,
+          "lineWritten" : "2026-06-02T21:59:45Z",
+          "status" : "live",
+          "target" : "Examples\/SwiftStreamingMarkdownSample\/project.yml",
+          "text" : "project.yml"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 42,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : ".agents\/skills",
+          "text" : ".agents\/skills"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 43,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "scripts",
+          "text" : "scripts"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 44,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "scripts\/dev-setup.sh",
+          "text" : "dev-setup.sh"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 45,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/ci.yml",
+          "text" : ".github\/workflows\/ci.yml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 46,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : ".swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 47,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "scripts\/dev-setup.sh",
+          "text" : "dev-setup.sh"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 48,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "line" : 148,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "unresolved",
+          "text" : "async\/await"
+        },
+        {
+          "line" : 167,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "unresolved",
+          "text" : "Type+Feature.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 167,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Style\/Colors+Theme.swift",
+          "text" : "Colors+Theme.swift"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 167,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Sources\/MarkdownText\/Utilities\/String+.swift",
+          "text" : "String+.swift"
+        },
+        {
+          "commitsSinceWritten" : 19,
+          "line" : 181,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : "Tests\/MarkdownTextTests",
+          "text" : "Tests\/MarkdownTextTests"
+        },
+        {
+          "line" : 182,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "unresolved",
+          "text" : "pointfreeco\/swift-snapshot-testing"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 182,
+          "lineWritten" : "2026-06-02T01:04:38Z",
+          "status" : "live",
+          "target" : ".agents\/skills\/snapshot-tests\/SKILL.md",
+          "text" : ".agents\/skills\/snapshot-tests\/SKILL.md"
+        }
+      ]
+    }
+  ],
+  "head" : "95bb755a9b23a1aea8682b9ebc912cb72b176c95"
+}

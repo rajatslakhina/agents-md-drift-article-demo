@@ -1,0 +1,1203 @@
+{
+  "files" : [
+    {
+      "lastEdited" : "2026-10-23T12:24:46-03:00",
+      "path" : "CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 9,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "README.md",
+          "text" : "README.md"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 9,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 24,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust\/build-ios.sh",
+          "text" : ".\/build-ios.sh"
+        },
+        {
+          "commitsSinceWritten" : 12,
+          "line" : 25,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust\/MobileSdkRs\/Sources\/MobileSdkRs",
+          "text" : "rust\/MobileSdkRs\/Sources\/MobileSdkRs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 26,
+          "lineWritten" : "2026-10-14T17:22:33Z",
+          "status" : "live",
+          "target" : "android\/MobileSdkRs\/build.gradle",
+          "text" : "android\/MobileSdkRs\/build.gradle"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 27,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/CLAUDE.md",
+          "text" : "sprucekit_mobile\/CLAUDE.md"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 31,
+          "lineWritten" : "2026-08-25T15:42:26Z",
+          "status" : "live",
+          "target" : ".github\/workflows\/ci.yml",
+          "text" : ".github\/workflows\/ci.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 33,
+          "lineWritten" : "2026-08-25T15:42:26Z",
+          "status" : "live",
+          "target" : "_typos.toml",
+          "text" : "_typos.toml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 39,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "rust\/deny.toml",
+          "text" : "rust\/deny.toml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 41,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "rust\/deny.toml",
+          "text" : "rust\/deny.toml"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 42,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "android\/build.gradle.kts",
+          "text" : "android\/build.gradle.kts"
+        },
+        {
+          "line" : 42,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "unresolved",
+          "text" : "cashapp\/licensee"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 42,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 43,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "ios\/check-swift-licenses.py",
+          "text" : "ios\/check-swift-licenses.py"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 43,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "Package.resolved",
+          "text" : "Package.resolved"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 48,
+          "lineWritten" : "2026-04-15T10:04:08Z",
+          "status" : "live",
+          "target" : "ios\/check-swift-licenses.py",
+          "text" : "ios\/check-swift-licenses.py"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 52,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "CONTRIBUTING.md",
+          "text" : "CONTRIBUTING.md"
+        },
+        {
+          "commitsSinceWritten" : 84,
+          "line" : 56,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-03-27T13:36:51Z",
+      "path" : "android\/CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 9,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdkRs",
+          "text" : "MobileSdkRs"
+        },
+        {
+          "commitsSinceWritten" : 21,
+          "line" : 10,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk",
+          "text" : "MobileSdk"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 11,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/ble",
+          "text" : "ble"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 12,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/ui",
+          "text" : "ui"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 13,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/dcapi",
+          "text" : "dcapi"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 14,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/CredentialPack.kt",
+          "text" : "CredentialPack.kt"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 14,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/OID4VCI.kt",
+          "text" : "OID4VCI.kt"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 14,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/KeyManager.kt",
+          "text" : "KeyManager.kt"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 14,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/StorageManager.kt",
+          "text" : "StorageManager.kt"
+        },
+        {
+          "commitsSinceWritten" : 23,
+          "line" : 15,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/Showcase",
+          "text" : "Showcase"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 23,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 26,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 27,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 28,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 31,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 32,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 33,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 36,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 39,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 40,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 41,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "line" : 47,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "unresolved",
+          "text" : "...\/local.properties"
+        },
+        {
+          "line" : 47,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "ignored",
+          "text" : "android\/local.properties"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-08-03T14:47:39-03:00",
+      "path" : "ios\/CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 7,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk",
+          "text" : "MobileSdk"
+        },
+        {
+          "commitsSinceWritten" : 11,
+          "line" : 8,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/Sources\/MobileSdk",
+          "text" : "Sources\/MobileSdk"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 9,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/Tests\/MobileSdkTests",
+          "text" : "Tests\/MobileSdkTests"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 10,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/project.yml",
+          "text" : "project.yml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 11,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/.swiftlint.yml",
+          "text" : ".swiftlint.yml"
+        },
+        {
+          "commitsSinceWritten" : 24,
+          "line" : 12,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/Showcase",
+          "text" : "Showcase"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 13,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/project.yml",
+          "text" : "project.yml"
+        },
+        {
+          "commitsSinceWritten" : 16,
+          "line" : 19,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust",
+          "text" : "rust"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 20,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust\/build-ios.sh",
+          "text" : ".\/build-ios.sh"
+        },
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 23,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk",
+          "text" : "ios\/MobileSdk"
+        },
+        {
+          "commitsSinceWritten" : 24,
+          "line" : 24,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/Showcase",
+          "text" : "ios\/Showcase"
+        },
+        {
+          "line" : 26,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "unresolved",
+          "text" : "Build\/test"
+        },
+        {
+          "line" : 29,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "unresolved",
+          "text" : "Build\/test"
+        },
+        {
+          "commitsSinceWritten" : 14,
+          "line" : 33,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk",
+          "text" : "ios\/MobileSdk"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 42,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/Sources\/MobileSdk\/mdoc\/proximity",
+          "text" : "mdoc\/proximity"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 43,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdk\/src\/main\/java\/com\/spruceid\/mobile\/sdk\/ui",
+          "text" : "ui"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 50,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/project.yml",
+          "text" : "project.yml"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 52,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "ios\/MobileSdk\/project.yml",
+          "text" : "project.yml"
+        },
+        {
+          "commitsSinceWritten" : 84,
+          "line" : 52,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-09-25T13:24:24-03:00",
+      "path" : "rust\/CLAUDE.md",
+      "references" : [
+        {
+          "line" : 12,
+          "lineWritten" : "2026-06-10T18:39:43Z",
+          "status" : "unresolved",
+          "text" : "clippy\/build"
+        },
+        {
+          "commitsSinceWritten" : 16,
+          "line" : 28,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust",
+          "text" : "rust"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 29,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust\/build-ios.sh",
+          "text" : ".\/build-ios.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 30,
+          "lineWritten" : "2026-08-03T17:47:39Z",
+          "status" : "live",
+          "target" : "rust\/build-ios.sh",
+          "text" : ".\/build-ios.sh"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 47,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/mobile-toolkit\/src\/lib.rs",
+          "text" : "lib.rs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 48,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/mobile-toolkit\/src\/common.rs",
+          "text" : "common.rs"
+        },
+        {
+          "commitsSinceWritten" : 10,
+          "line" : 49,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/mdl",
+          "text" : "mdl"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 50,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/mdl\/holder.rs",
+          "text" : "holder.rs"
+        },
+        {
+          "commitsSinceWritten" : 6,
+          "line" : 51,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/mdl\/reader.rs",
+          "text" : "reader.rs"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 52,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/mdl\/mcd.rs",
+          "text" : "mcd.rs"
+        },
+        {
+          "commitsSinceWritten" : 16,
+          "line" : 53,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/oid4vp",
+          "text" : "oid4vp"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 54,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/oid4vp\/dc_api",
+          "text" : "dc_api"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 55,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/oid4vp\/iso_18013_7",
+          "text" : "iso_18013_7"
+        },
+        {
+          "commitsSinceWritten" : 7,
+          "line" : 56,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/oid4vci",
+          "text" : "oid4vci"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 57,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/oid4vci\/client",
+          "text" : "client"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 58,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/oid4vci\/proof",
+          "text" : "proof"
+        },
+        {
+          "commitsSinceWritten" : 11,
+          "line" : 60,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/credential",
+          "text" : "credential"
+        },
+        {
+          "commitsSinceWritten" : 9,
+          "line" : 61,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/credential\/format",
+          "text" : "format"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 62,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/credential\/status.rs",
+          "text" : "status.rs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 63,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/credential\/activity_log.rs",
+          "text" : "activity_log.rs"
+        },
+        {
+          "commitsSinceWritten" : 5,
+          "line" : 67,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/Showcase\/src\/main\/java\/com\/spruceid\/mobilesdkexample\/verifier",
+          "text" : "verifier"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 68,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/mobile-toolkit\/src\/crypto.rs",
+          "text" : "crypto.rs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 69,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/did",
+          "text" : "did"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 70,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/mobile-toolkit\/src\/storage_manager.rs",
+          "text" : "storage_manager.rs"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 71,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/local_store.rs",
+          "text" : "local_store.rs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 72,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/haci",
+          "text" : "haci"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 73,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/trusted_roots",
+          "text" : "trusted_roots"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 74,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/vdc_collection.rs",
+          "text" : "vdc_collection.rs"
+        },
+        {
+          "commitsSinceWritten" : 3,
+          "line" : 75,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/presentation",
+          "text" : "presentation"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 76,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/jwk",
+          "text" : "jwk"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 77,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/jws",
+          "text" : "jws"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 78,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/cborld.rs",
+          "text" : "cborld.rs"
+        },
+        {
+          "commitsSinceWritten" : 2,
+          "line" : 79,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/context.rs",
+          "text" : "context.rs"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 80,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/logger.rs",
+          "text" : "logger.rs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 82,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/src\/w3c_vc_barcodes.rs",
+          "text" : "w3c_vc_barcodes.rs"
+        },
+        {
+          "commitsSinceWritten" : 17,
+          "line" : 106,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/Cargo.toml",
+          "text" : "Cargo.toml"
+        },
+        {
+          "commitsSinceWritten" : 32,
+          "line" : 115,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "rust\/MobileSdkRs",
+          "text" : "rust\/MobileSdkRs"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 116,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "android\/MobileSdkRs\/src\/main\/java",
+          "text" : "android\/MobileSdkRs\/src\/main\/java"
+        }
+      ]
+    },
+    {
+      "lastEdited" : "2026-10-23T12:24:46-03:00",
+      "path" : "sprucekit_mobile\/CLAUDE.md",
+      "references" : [
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 11,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/lib\/sprucekit_mobile.dart",
+          "text" : "lib\/sprucekit_mobile.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 12,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/lib\/pigeon",
+          "text" : "lib\/pigeon"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 12,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons",
+          "text" : "pigeons"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 13,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/lib\/src\/scanner.dart",
+          "text" : "lib\/src\/scanner.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 14,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons",
+          "text" : "pigeons"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 15,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/ios\/sprucekit_mobile",
+          "text" : "ios\/sprucekit_mobile"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 15,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 15,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/ios\/sprucekit_mobile\/Sources\/sprucekit_mobile",
+          "text" : "Sources\/sprucekit_mobile"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 15,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/ios",
+          "text" : "ios"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 16,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/android\/src\/main\/kotlin",
+          "text" : "android\/src\/main\/kotlin"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 17,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example",
+          "text" : "example"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 29,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/lib\/sprucekit_mobile.dart",
+          "text" : "lib\/sprucekit_mobile.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 29,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons",
+          "text" : "pigeons"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 29,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example",
+          "text" : "example"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 31,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons",
+          "text" : "pigeons"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 32,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/oid4vci.dart",
+          "text" : "pigeons\/oid4vci.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 33,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/oid4vp.dart",
+          "text" : "pigeons\/oid4vp.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 34,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/oid4vp_mdoc.dart",
+          "text" : "pigeons\/oid4vp_mdoc.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 35,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/credential_pack.dart",
+          "text" : "pigeons\/credential_pack.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 36,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/mdl_presentation.dart",
+          "text" : "pigeons\/mdl_presentation.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 37,
+          "lineWritten" : "2026-10-13T14:41:36Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/mdl_reader.dart",
+          "text" : "pigeons\/mdl_reader.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 38,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/spruce_utils.dart",
+          "text" : "pigeons\/spruce_utils.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 39,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/dc_api.dart",
+          "text" : "pigeons\/dc_api.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 40,
+          "lineWritten" : "2026-10-13T14:41:36Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons\/vcalm.dart",
+          "text" : "pigeons\/vcalm.dart"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 43,
+          "lineWritten" : "2026-09-25T13:24:22Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example",
+          "text" : "example"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 51,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/pigeons",
+          "text" : "pigeons"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 52,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/lib\/pigeon",
+          "text" : "lib\/pigeon"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 52,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/ios\/sprucekit_mobile\/Sources\/sprucekit_mobile",
+          "text" : "ios\/sprucekit_mobile\/Sources\/sprucekit_mobile"
+        },
+        {
+          "line" : 52,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "unresolved",
+          "text" : ".g.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 52,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/android\/src\/main\/kotlin",
+          "text" : "android\/src\/main\/kotlin"
+        },
+        {
+          "line" : 52,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "unresolved",
+          "text" : ".g.kt"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 53,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/ios\/sprucekit_mobile\/Sources\/sprucekit_mobile\/Oid4vciAdapter.swift",
+          "text" : "Oid4vciAdapter.swift"
+        },
+        {
+          "commitsSinceWritten" : 1,
+          "line" : 53,
+          "lineWritten" : "2026-03-27T13:36:51Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/android\/src\/main\/kotlin\/com\/spruceid\/sprucekit_mobile\/Oid4vciAdapter.kt",
+          "text" : "Oid4vciAdapter.kt"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 59,
+          "lineWritten" : "2026-04-09T17:51:56Z",
+          "status" : "live",
+          "target" : "android\/gradlew",
+          "text" : ".\/gradlew"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 62,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/android\/build.gradle",
+          "text" : "sprucekit_mobile\/android\/build.gradle"
+        },
+        {
+          "line" : 73,
+          "lineWritten" : "2026-04-20T19:22:21Z",
+          "status" : "unresolved",
+          "text" : "com.spruceid.mobile.sdk.rs"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 78,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example",
+          "text" : "sprucekit_mobile\/example"
+        },
+        {
+          "commitsSinceWritten" : 4,
+          "line" : 79,
+          "lineWritten" : "2026-04-20T19:22:21Z",
+          "status" : "live",
+          "target" : "android\/MobileSdkRs\/build.gradle",
+          "text" : "build.gradle"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 83,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/ios\/sprucekit_mobile\/Package.swift",
+          "text" : "ios\/sprucekit_mobile\/Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 83,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example\/pubspec.yaml",
+          "text" : "example\/pubspec.yaml"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 85,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "Package.swift",
+          "text" : "Package.swift"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 92,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "rust\/build-ios.sh",
+          "text" : ".\/build-ios.sh"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 97,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example",
+          "text" : "sprucekit_mobile\/example"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 100,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "Package.resolved",
+          "text" : "Package.resolved"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 102,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example\/ios\/Runner.xcworkspace",
+          "text" : "ios\/Runner.xcworkspace"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 102,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example",
+          "text" : "example"
+        },
+        {
+          "line" : 102,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "unresolved",
+          "text" : "launch.json"
+        },
+        {
+          "line" : 104,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "unresolved",
+          "text" : "ios\/Flutter\/ephemeral\/Packages\/.packages"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 104,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "sprucekit_mobile\/example\/ios\/Runner.xcodeproj",
+          "text" : "Runner.xcodeproj"
+        },
+        {
+          "line" : 104,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "unresolved",
+          "text" : "Flutter\/ephemeral\/Packages\/.packages\/sprucekit_mobile"
+        },
+        {
+          "commitsSinceWritten" : 0,
+          "line" : 106,
+          "lineWritten" : "2026-10-23T15:24:46Z",
+          "status" : "live",
+          "target" : "rust\/build-ios.sh",
+          "text" : ".\/build-ios.sh"
+        }
+      ]
+    }
+  ],
+  "head" : "786bba7facba702c39049b9e959b6562b32c357a"
+}
