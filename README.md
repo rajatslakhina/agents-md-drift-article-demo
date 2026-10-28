@@ -2,7 +2,7 @@
 
 **Your AGENTS.md is a future lie. This package measures how fast, and gates pull requests so it stops.**
 
-Article: (added after publish)
+Article: [Your AGENTS.md Is a Future Lie. I Measured 18 Swift Repos to See How Fast.](https://medium.com/@er.rajatlakhina/your-agents-md-is-a-future-lie-i-measured-18-swift-repos-to-see-how-fast-0d30646dbc36)
 
 `InstructionDrift` treats agent instruction files (`AGENTS.md`, `CLAUDE.md`) as code that describes other code. It does two things:
 
