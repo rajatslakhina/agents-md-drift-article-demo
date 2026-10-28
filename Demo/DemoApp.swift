@@ -205,7 +205,7 @@ struct VerdictBanner: View {
         switch verdict {
         case .pass: return "Every rule this change touches was re-read."
         case .needsReview(let ids): return "Re-read: " + ids.joined(separator: ", ")
-        case .blocked(let ids): return "False today: " + ids.joined(separator: ", ")
+        case .blocked(let ids): return "Can't merge: " + ids.joined(separator: ", ")
         }
     }
     private var color: Color {
@@ -227,7 +227,7 @@ struct RuleCheckRow: View {
             HStack {
                 Text(check.rule.id).font(.subheadline.monospaced().weight(.semibold))
                 Spacer()
-                SeverityChip(severity: check.worst, acknowledged: isAcknowledged)
+                SeverityChip(severity: check.worst, acknowledged: isAcknowledged, onlyExpired: isOnlyExpired)
             }
             ForEach(Array(check.issues.enumerated()), id: \.offset) { _, issue in
                 Text(describe(issue)).font(.caption).foregroundStyle(.secondary)
@@ -251,11 +251,22 @@ struct RuleCheckRow: View {
         case .missingReviewBy: return "No review-by date"
         }
     }
+
+    /// True when the only blocking issue is a passed review-by date: the rule may still
+    /// be true, but nobody is vouching for it.
+    private var isOnlyExpired: Bool {
+        let blocking = check.issues.filter { $0.severity == .blocking }
+        return !blocking.isEmpty && blocking.allSatisfy { issue in
+            if case .expired = issue { return true }
+            return false
+        }
+    }
 }
 
 struct SeverityChip: View {
     let severity: RuleIssue.Severity?
     let acknowledged: Bool
+    var onlyExpired = false
 
     var body: some View {
         Text(label)
@@ -268,7 +279,7 @@ struct SeverityChip: View {
     private var label: String {
         if acknowledged { return "RE-READ" }
         switch severity {
-        case .blocking?: return "FALSE"
+        case .blocking?: return onlyExpired ? "EXPIRED" : "FALSE"
         case .review?: return "REVIEW"
         case .warning?: return "UNOWNED"
         case nil: return "OK"
