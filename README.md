@@ -7,16 +7,16 @@ Article: (added after publish)
 `InstructionDrift` treats agent instruction files (`AGENTS.md`, `CLAUDE.md`) as code that describes other code. It does two things:
 
 1. **Audits drift.** It finds every path an instruction file names, checks the path still exists, and uses `git blame` to count how many commits have touched it since the sentence about it was last edited.
-2. **Gates pull requests.** Rules carry an owner, a `review-by` date, the decision (ADR) they encode, and anchors. On each PR, a rule whose anchor is gone, whose date has passed, or whose ADR was superseded **blocks** the merge, and a rule whose anchored code changed needs its **owner to re-read it**. CODEOWNERS for agent instructions.
+2. **Gates pull requests (library API).** Rules carry an owner, a `review-by` date, the decision (ADR) they encode, and anchors. On each PR, a rule whose anchor is gone, whose date has passed, or whose ADR was superseded **blocks** the merge, and a rule whose anchored code changed needs its **owner to re-read it**. CODEOWNERS for agent instructions.
 
-![The demo app on the iOS Simulator: the field audit, a PR blocked by three false rules, and the same PR after the fix](docs/simulator.png)
+![The demo app on the iOS Simulator: a PR blocked by three rules, and the same PR after the owners fix them](docs/simulator.png)
 
 ## What I found in 18 public Swift repos
 
 `Tools/drift-audit` was run on 18 public Swift repos that ship an `AGENTS.md` or `CLAUDE.md` (37 instruction files, 779 path references):
 
 - **664** references still resolve. **455 of them (69%)** point at code that changed after the line naming it was last edited; **197** at code with five or more commits since.
-- **3** references point at paths that are gone, in 2 repos. One is a `you MUST update ... Sources/xcsift.docc/` rule: the catalog moved five months before the file's most recent edit.
+- **3** references point at paths that are gone, in 2 repos. One is a `you MUST update ... Sources/xcsift.docc/` rule: the catalog moved nearly five months before the file's most recent edit.
 
 Method, per-repo numbers, commits and the hand check of every removed path: [`docs/field-audit`](docs/field-audit/README.md).
 
@@ -42,7 +42,7 @@ import InstructionDrift
 let gate = ReviewGate(
     rules: RuleParser.rules(in: agentsMarkdown),
     snapshot: RepoSnapshot(files: filesAfterChange),       // `git ls-files` after the PR
-    decisions: ["ADR-007": .superseded(by: "ADR-019")]     // from docs/adr
+    decisions: ["ADR-007": .superseded(by: "ADR-019")]     // your ADR index
 )
 let checks = gate.check(changedPaths: prFiles,
                         acknowledged: ["build"],           // "Rules-reviewed: build" in the PR body
@@ -69,7 +69,7 @@ case .pass:                 print("Instructions still hold")
 | `FieldStudy` | The 18-repo results, generated from `docs/field-audit/summary.json`. |
 | `SampleWorkspace` | "Pantry", a fictional app with six governed rules and one PR. |
 
-`Tools/drift-audit` is a separate package (so the library's `Package.swift` stays a pure library). It is the command-line runner that answers `ChangeHistory` with git. `Scripts/field_audit.sh` re-runs the whole study.
+`ReviewGate` is a library API: you supply the changed files, `git ls-files`, your ADR statuses and any `Rules-reviewed:` acknowledgements from your own CI step. `Tools/drift-audit` is a separate package (so the library's `Package.swift` stays a pure library). It is the command-line runner that answers `ChangeHistory` with git. `Scripts/field_audit.sh` re-runs the whole study.
 
 ## How to run it
 

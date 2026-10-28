@@ -20,13 +20,14 @@ These are good, actively maintained projects. Several of them edited their instr
 
 "Changed since the line was written" is not the same as "wrong". It is the number of sentences whose subject moved after they were written, with nothing in the repo asking anyone to re-read them.
 
-## The four references flagged as removed, checked by hand
+## The four references flagged as removed, checked by hand (plus one that was never right)
 
 | Repo | Line | Reference | What happened | Verdict |
 |---|---|---|---|---|
 | ldomaradzki/xcsift | `CLAUDE.md:1041` (written 2025-12-11) | `Sources/xcsift.docc/` | The line is an **IMPORTANT ... you MUST update** rule. The catalog moved to `Sources/xcsift/xcsift.docc/` on 2026-05-25. The file was last edited 2026-10-16. | False today |
 | ldomaradzki/xcsift | `CLAUDE.md:722` (written 2026-03-22) | `Tests/XcbeautifyTests.swift` | Deleted on 2026-05-12 when the core moved into separate targets. | False today |
 | microsoft/SwiftStreamingMarkdown | `AGENTS.md:14` (written 2026-06-02) | `Sources/MarkdownText/UI/UIKit/` | The folder was reorganised on 2026-06-30. The file was last edited 2026-07-07. | False today |
+| AudioKit/AudioKit | `CLAUDE.md:28` | `Internals/Engine/Node.swift` | Not flagged by the tool (it never existed, so it counts as unresolved). The protocol lives at `Sources/AudioKit/Nodes/Node.swift`; `git log --all` shows no file ever at the cited path. | Wrong when written |
 | Zcash/ZcashLightClientKit | `AGENTS.md:257` | `zcashlc.h` | The line correctly calls it a *generated* header; the tracked copy was removed in 2022 because the build now produces it. | Tool false positive |
 
 ## Per repo

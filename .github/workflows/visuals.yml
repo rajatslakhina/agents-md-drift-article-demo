@@ -30,14 +30,14 @@ jobs:
         run: |
           render () {
             google-chrome --headless=new --disable-gpu --hide-scrollbars \
-              --force-device-scale-factor=1 --window-size="$2,$(( $3 + 200 ))" \
+              --force-device-scale-factor=2 --window-size="$2,$(( $3 + 200 ))" \
               --screenshot="/tmp/$1.png" "file://$PWD/docs/src/$1.html"
-            convert "/tmp/$1.png" -crop "$2x$3+0+0" +repage "docs/$1.png"
+            convert "/tmp/$1.png" -crop "$(( $2 * 2 ))x$(( $3 * 2 ))+0+0" +repage "docs/$1.png"
           }
           render header 1600 840
-          render chart 1040 900
+          render chart 1040 912
           render diagram 1040 830
-          render simulator 1040 860
+          render simulator 1040 900
           ls -la docs
       - name: Commit visuals if they changed
         run: |
